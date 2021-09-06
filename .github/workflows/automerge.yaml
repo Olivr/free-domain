@@ -1,0 +1,36 @@
+name: Automerge PR
+on:
+  pull_request_target:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v2
+        with:
+          ref: ${{github.event.pull_request.head.ref}}
+          repository: ${{github.event.pull_request.head.repo.full_name}}
+          fetch-depth: 0
+
+      - name: Fetch main repo
+        run: |
+          git remote add upstream https://github.com/Olivr/free-domain.git
+          git fetch upstream
+
+      - name: Verify that only one line was added to cluster.ws.yaml and no other modification was made
+        run: |
+          FILE_DIFF=$(diff <(git show upstream/main:cluster.ws.yaml) cluster.ws.yaml | grep -v '^>')
+          NUMBER_1=$(echo "$FILE_DIFF" | head -1 | grep -Eo '^[0-9]')
+          NUMBER_2=$(expr "$NUMBER_1" + 1)
+          [[ $(git diff --name-only upstream/main | wc -l | grep -Eo '[0-9]+') == "1" && $(git diff --name-only upstream/main) == "cluster.ws.yaml" && $(echo "$FILE_DIFF" | wc -l | grep -Eo '[0-9]+') == "1" && "$FILE_DIFF" == "${NUMBER_1}a${NUMBER_2}" ]]
+
+      - name: Auto-merge
+        uses: "pascalgn/automerge-action@v0.14.2"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_METHOD: "squash"
+          MERGE_COMMIT_MESSAGE: "pull-request-title"
+          MERGE_DELETE_BRANCH: true
+          UPDATE_METHOD: "rebase"
+          MERGE_LABELS: ""

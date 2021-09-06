@@ -1,0 +1,28 @@
+name: Check PR
+on:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Verify that only one line was added to cluster.ws.yaml
+        run: |
+          FILE_DIFF=$(diff <(git show origin/main:cluster.ws.yaml) cluster.ws.yaml | grep -v '^>')
+          NUMBER_1=$(echo "$FILE_DIFF" | head -1 | grep -Eo '^[0-9]')
+          NUMBER_2=$(expr "$NUMBER_1" + 1)
+          [[ $(echo "$FILE_DIFF" | wc -l | grep -Eo '[0-9]+') == "1" ]] && [[ "$FILE_DIFF" == "${NUMBER_1}a${NUMBER_2}" ]]
+
+      - name: Auto-merge
+        uses: "pascalgn/automerge-action@v0.14.2"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_METHOD: "squash"
+          MERGE_COMMIT_MESSAGE: "pull-request-title"
+          MERGE_DELETE_BRANCH: true
+          UPDATE_METHOD: "rebase"
+          MERGE_LABELS: ""

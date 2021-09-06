@@ -1,0 +1,19 @@
+name: Auto-merge
+on:
+  workflow_run:
+    workflows: [Check PR]
+    types: [completed]
+
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto-merge
+        uses: "pascalgn/automerge-action@v0.14.2"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_METHOD: "squash"
+          MERGE_COMMIT_MESSAGE: "pull-request-title"
+          MERGE_DELETE_BRANCH: true
+          UPDATE_METHOD: "rebase"
+          MERGE_LABELS: ""

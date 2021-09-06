@@ -4,5 +4,6 @@
 # 1 subdomain = 1 PR
 # ---------------------------------------------------------------------------------------------------------------------
 example: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Creates example.cluster.ws
+example4: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Creates example.cluster.ws
 example2: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Creates example.cluster.ws
 example3: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Creates example.cluster.ws

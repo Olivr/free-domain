@@ -23,7 +23,7 @@ jobs:
       - name: Make sure there's only one TLD affected
         run: |
           TLD_FILE=$(git diff --name-only upstream/main)
-          [ $TLD_FILE == zones/cluster.ws.yaml ]
+          [ $TLD_FILE == zones/cluster.ws.yaml ] || [ $TLD_FILE == zones/wip.la.yaml ]
 
       - name: Make sure that only one line was added or modified
         run: |

@@ -1,0 +1,42 @@
+name: Auto-delete expired domains
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Warn domains expiring in 1 month
+        run: |
+          export DATE=$(date -v-1y -v+1m)
+          export EXPIRY="will expire in 1 month"
+          ./scripts/expiring.sh
+
+      - name: Warn domains expiring in 1 week
+        run: |
+          export DATE=$(date -v-1y -v+1w)
+          export EXPIRY="will expire next week"
+          ./scripts/expiring.sh
+
+      - name: Warn domains expiring in 1 day
+        run: |
+          export DATE=$(date -v-1y -v+1d)
+          export EXPIRY="expires tomorrow"
+          ./scripts/expiring.sh
+
+      - name: Delete domains older than 1 year
+        run: |
+          export DATE=$(date -v-1y)
+          ./scripts/expired.sh
+
+      - name: Commit any changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Delete expired domains

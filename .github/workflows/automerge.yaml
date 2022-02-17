@@ -1,6 +1,8 @@
 name: Automerge PR
 on:
   pull_request_target:
+    paths:
+      - "zones/*.yaml"
 
 jobs:
   check:
@@ -18,12 +20,27 @@ jobs:
           git remote add upstream https://github.com/Olivr/free-domain.git
           git fetch upstream
 
-      - name: Verify that only one line was added to cluster.ws.yaml and no other modification was made
+      - name: Make sure there's only one TLD affected
         run: |
-          FILE_DIFF=$(diff <(git show upstream/main:cluster.ws.yaml) cluster.ws.yaml | grep -v '^>')
-          NUMBER_1=$(echo "$FILE_DIFF" | head -1 | grep -Eo '^[0-9]')
-          NUMBER_2=$(expr "$NUMBER_1" + 1)
-          [[ $(git diff --name-only upstream/main | wc -l | grep -Eo '[0-9]+') == "1" && $(git diff --name-only upstream/main) == "cluster.ws.yaml" && $(echo "$FILE_DIFF" | wc -l | grep -Eo '[0-9]+') == "1" && "$FILE_DIFF" == "${NUMBER_1}a${NUMBER_2}" ]]
+          TLD_FILE=$(git diff --name-only upstream/main)
+          [ $TLD_FILE == zones/cluster.ws.yaml ]
+
+      - name: Make sure that only one line was added or modified
+        run: |
+          DIFF_LOG=$(diff <(git show upstream/main:$TLD_FILE) $TLD_FILE | grep '^\d')
+          [ $(echo $DIFF_LOG | wc -l) == 1 ]
+          [ $DIFF_LOG =~ ^[0-9]+[ac][0-9]+$ ]
+
+      - name: Install Ajv
+        run: npm install -g ajv-cli
+
+      - name: Make sure YAML document is valid
+        run: ajv validate -s dns.schema.json -d $TLD_FILE
+
+      - name: If a domain was modified, make sure it is done by the owner
+        run: |
+          CHANGED_LINES=${DIFF_LOG#[0-9]*c},${DIFF_LOG#[0-9]*c}
+          [ ${DIFF_LOG#[0-9]*a} == $(expr ${DIFF_LOG%a[0-9]*} + 1) ] || [ $(git blame -te -L$CHANGED_LINES upstream/main -- $TLD_FILE | awk '{print $2}') == $(git blame -te -L$CHANGED_LINES -- $TLD_FILE | awk '{print $2}') ]
 
       - name: Auto-merge
         uses: "pascalgn/automerge-action@v0.14.2"

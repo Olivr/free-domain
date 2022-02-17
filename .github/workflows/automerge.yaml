@@ -25,15 +25,15 @@ jobs:
           TLD_FILE=$(git diff --name-only upstream/main)
           [ $TLD_FILE == zones/cluster.ws.yaml ] || [ $TLD_FILE == zones/wip.la.yaml ]
 
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
+
       - name: Make sure that only one line was added or modified
         run: |
           TLD_FILE=$(git diff --name-only upstream/main)
           DIFF_LOG=$(diff <(git show upstream/main:$TLD_FILE) $TLD_FILE | grep '^\d')
           [ $(echo $DIFF_LOG | wc -l) == 1 ]
           [ $DIFF_LOG =~ ^[0-9]+[ac][0-9]+$ ]
-
-      - name: Setup tmate session
-        uses: mxschmitt/action-tmate@v3
 
       - name: Make sure zone file is valid
         run: |

@@ -25,8 +25,8 @@ jobs:
           TLD_FILE=$(git diff --name-only upstream/main)
           [ $TLD_FILE == zones/cluster.ws.yaml ] || [ $TLD_FILE == zones/wip.la.yaml ]
 
-      - name: Setup tmate session
-        uses: mxschmitt/action-tmate@v3
+      - name: Setup upterm session
+        uses: lhotari/action-upterm@v1
 
       - name: Make sure that only one line was added or modified
         run: |

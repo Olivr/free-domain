@@ -40,14 +40,14 @@ Once you settled on available domain, you need to know which DNS servers to use 
 
 Here are some DNS providers you can use:
 
-| Provider     | DNS price | Sign-up bonus | Where to go (after sign-up) |
-|--------------|-----------|---------------|----------------------------|
-| [Digital Ocean](https://m.do.co/c/647d31cfbfd7) | Free      | [$100](https://m.do.co/c/647d31cfbfd7)         | [Networking > Domains](https://cloud.digitalocean.com/networking/domains) |
-| [Linode](https://www.linode.com/?r=b1756a97d0b7a32dd4137465808b36d705698cbc)       | Free      | [$100](https://www.linode.com/?r=b1756a97d0b7a32dd4137465808b36d705698cbc)         | [Domains > Create](https://cloud.linode.com/domains/create) |
-| [Vultr](https://www.vultr.com/?ref=9057126)       | Free      | [$100](https://www.vultr.com/?ref=9057126)         | [DNS > Add domain](https://my.vultr.com/dns/) |
-| [Hetzner](https://www.hetzner.com/) | Free      | No         | [DNS > Add zone](https://dns.hetzner.com/add-zone) |
-| [AWS](https://aws.amazon.com/route53/pricing) | Paid      | No         | [Route 53 > Hosted zones > Create hosted zone](https://console.aws.amazon.com/route53/v2/hostedzones#CreateHostedZone) |
-| [Google Cloud](https://cloud.google.com/dns/pricing) | Paid      | $300         | [Cloud DNS > Create a DNS zone](https://console.cloud.google.com/networking/dns/zones/~new) |
+| Provider                                                                     | DNS price | Sign-up bonus                                                              | Where to go (after sign-up)                                                                                            |
+| ---------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [Digital Ocean](https://m.do.co/c/647d31cfbfd7)                              | Free      | [$100](https://m.do.co/c/647d31cfbfd7)                                     | [Networking > Domains](https://cloud.digitalocean.com/networking/domains)                                              |
+| [Linode](https://www.linode.com/?r=b1756a97d0b7a32dd4137465808b36d705698cbc) | Free      | [$100](https://www.linode.com/?r=b1756a97d0b7a32dd4137465808b36d705698cbc) | [Domains > Create](https://cloud.linode.com/domains/create)                                                            |
+| [Vultr](https://www.vultr.com/?ref=9057126)                                  | Free      | [$100](https://www.vultr.com/?ref=9057126)                                 | [DNS > Add domain](https://my.vultr.com/dns/)                                                                          |
+| [Hetzner](https://www.hetzner.com/)                                          | Free      | No                                                                         | [DNS > Add zone](https://dns.hetzner.com/add-zone)                                                                     |
+| [AWS](https://aws.amazon.com/route53/pricing)                                | Paid      | No                                                                         | [Route 53 > Hosted zones > Create hosted zone](https://console.aws.amazon.com/route53/v2/hostedzones#CreateHostedZone) |
+| [Google Cloud](https://cloud.google.com/dns/pricing)                         | Paid      | $300                                                                       | [Cloud DNS > Create a DNS zone](https://console.cloud.google.com/networking/dns/zones/~new)                            |
 
 > Some of the links above are referral links to support this repo
 

@@ -14,7 +14,7 @@ do
 
   for line in ${EXPIRING_LINES[*]}
   do
-    COMMITTER_INFO=$(git blame --line-porcelain "$ZONE" -L"$line" | grep -E '^(committer-mail)?[[:space:]]' | tr '\n' ' ' | awk -e '{gsub(/[ :]/, "", $3); printf "%s %s.'"$TLD"'", substr($2,2,length($2)-2), $3}')
+    COMMITTER_INFO=$(git blame --line-porcelain "$ZONE" -L"$line" | grep -E '^(author-mail)?[[:space:]]' | tr '\n' ' ' | awk -e '{gsub(/[ :]/, "", $3); printf "%s %s.'"$TLD"'", substr($2,2,length($2)-2), $3}')
     echo "${COMMITTER_INFO[@]}" | xargs ./scripts/mail.sh
     unset COMMITTER_INFO
   done

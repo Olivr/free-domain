@@ -13,27 +13,30 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup upterm session
+        uses: lhotari/action-upterm@v1
+
       - name: Warn domains expiring in 1 month
         run: |
-          export DATE=$(date -v-1y -v+1m)
+          export DATE=$(date -d "$(date -d "1 month") 1 year ago")
           export EXPIRY="will expire in 1 month"
           ./scripts/expiring.sh
 
       - name: Warn domains expiring in 1 week
         run: |
-          export DATE=$(date -v-1y -v+1w)
+          export DATE=$(date -d "$(date -d "1 week") 1 year ago")
           export EXPIRY="will expire next week"
           ./scripts/expiring.sh
 
       - name: Warn domains expiring in 1 day
         run: |
-          export DATE=$(date -v-1y -v+1d)
+          export DATE=$(date -d "$(date -d "1 day") 1 year ago")
           export EXPIRY="expires tomorrow"
           ./scripts/expiring.sh
 
       - name: Delete domains older than 1 year
         run: |
-          export DATE=$(date -v-1y)
+          export DATE=$(date -d "1 year ago")
           ./scripts/expired.sh
 
       - name: Commit any changes

@@ -7,5 +7,5 @@
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
 example: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.cluster.ws
-bejo: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+bejo: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Test
 dev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

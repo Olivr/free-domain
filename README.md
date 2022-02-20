@@ -71,6 +71,19 @@ This repo will send 3 reminders (1 month, 1 week and 1 day before expiration) to
 
 ![Star this repo](img/star_repo.gif)
 
+### Due diligence
+
+All the code for managing these domains (permissions, validation, etc.) is located in this repo.
+
+We try to keep at least 2 years before the expiration of these domains.
+
+You can check their expiration date from a [whois website](https://www.iana.org/whois) or from your command line:
+
+```sh
+whois cluster.ws | grep -i expir
+whois wip.la | grep -i expir
+```
+
 ## Abuse
 
 We're trying to make the world a better place, **please don't abuse this system** 🙏

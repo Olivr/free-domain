@@ -30,19 +30,19 @@ jobs:
           TLD_FILE=$(git diff --name-only upstream/main)
           DIFF_LOG=$(diff <(git show upstream/main:$TLD_FILE) $TLD_FILE | grep ^[[:digit:]])
           [[ $(echo $DIFF_LOG | wc -l) == 1 ]]
-          [[ $DIFF_LOG =~ ^[0-9]+[ac][0-9]+$ ]]
+          [[ $DIFF_LOG =~ ^[0-9]+a[0-9]+$ ]]
 
       - name: Make sure zone file is valid
         run: |
           TLD_FILE=$(git diff --name-only upstream/main)
           npx ajv-cli validate -s dns.schema.json -d $TLD_FILE
 
-      - name: If a domain was modified, make sure it is done by the owner
-        run: |
-          TLD_FILE=$(git diff --name-only upstream/main)
-          DIFF_LOG=$(diff <(git show upstream/main:$TLD_FILE) $TLD_FILE | grep ^[[:digit:]])
-          CHANGED_LINES=${DIFF_LOG#[0-9]*c},${DIFF_LOG#[0-9]*c}
-          [[ ${DIFF_LOG#[0-9]*a} == $(expr ${DIFF_LOG%a[0-9]*} + 1) ]] || [[ $(git blame -te -L$CHANGED_LINES upstream/main -- $TLD_FILE | awk '{print substr($2,2)}') == $(git blame --line-porcelain -L$CHANGED_LINES -- $TLD_FILE | grep -E '^(committer-mail)' | awk '{print $2}') ]]
+      # - name: If a domain was modified, make sure it is done by the owner
+      #   run: |
+      #     TLD_FILE=$(git diff --name-only upstream/main)
+      #     DIFF_LOG=$(diff <(git show upstream/main:$TLD_FILE) $TLD_FILE | grep ^[[:digit:]])
+      #     CHANGED_LINES=${DIFF_LOG#[0-9]*c},${DIFF_LOG#[0-9]*c}
+      #     [[ ${DIFF_LOG#[0-9]*a} == $(expr ${DIFF_LOG%a[0-9]*} + 1) ]] || [[ $(git blame -te -L$CHANGED_LINES upstream/main -- $TLD_FILE | awk '{print substr($2,2)}') == $(git blame --line-porcelain -L$CHANGED_LINES -- $TLD_FILE | grep -E '^(committer-mail)' | awk '{print $2}') ]]
 
       - name: Auto-merge
         uses: "pascalgn/automerge-action@v0.14.2"

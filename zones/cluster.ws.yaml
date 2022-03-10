@@ -13,3 +13,4 @@ tintic: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Reg
 nervive: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 on: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 anondev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+mytest: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

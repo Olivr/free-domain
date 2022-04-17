@@ -23,3 +23,4 @@ pixelbedrock: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudn
 meteor: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 cenego: [cloud1.cloudmailin.net, cloud2.cloudmailin.net, cloud3.cloudmailin.net]
 cenegoec: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+riad: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

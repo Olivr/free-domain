@@ -41,4 +41,4 @@ l2vy7: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 dibster: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 lumo-cloud: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 soup: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-rim: [ns1.desec.io, ns2.desec.org] # untitled comment
+rim: [ns1.exoscale.ch, ns1.exoscale.com, ns1.exoscale.io, ns1.exoscale.net]

@@ -42,4 +42,5 @@ dibster: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net
 lumo-cloud: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 soup: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 rim: [ns1.exoscale.ch, ns1.exoscale.com, ns1.exoscale.io, ns1.exoscale.net]
+arman: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 shadshards: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

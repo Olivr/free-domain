@@ -1,0 +1,46 @@
+# ---------------------------------------------------------------------------------------------------------------------
+# This will only create NS records so you can manage your domain with your DNS provider
+# For your PR to be approved, make sure you add your domain in one line without modifying the rest of the file
+#
+# 1 domain = 1 PR
+#
+# Domains expire 1 year after the last modification
+# ---------------------------------------------------------------------------------------------------------------------
+example: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.cluster.ws
+bejo: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+broimluna: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+dev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+tintic: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register tintic.cluster.ws
+nervive: [ns1.vercel-dns.com, ns2.vercel-dns.com]
+on: [ns1.vercel-dns.com, ns2.vercel-dns.com]
+anondev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+mytest: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+haste: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+fuzz: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+missemily: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+lantern: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+earth: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+pixelbedrock: [galileo.aternos.org, columbus.aternos.org]
+meteor: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+cenego: [cloud1.cloudmailin.net, cloud2.cloudmailin.net, cloud3.cloudmailin.net]
+cenegoec: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+riad: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+connor: [ns1.contabo.net, ns2.contabo.net, ns3.contabo.net]
+ticketstar: [ns-1089.awsdns-08.org, ns-1917.awsdns-47.co.uk, ns-691.awsdns-22.net, ns-182.awsdns-22.com]
+ninja: [ns1.linode.com, ns2.linode.com, ns3.linode.com, ns4.linode.com, ns5.linode.com]
+splendid: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
+tweak: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+rexums: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
+snow: [ns1.vercel-dns.com, ns2.vercel-dns.com]
+noma: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+ikea: [ns1.crystalcloud.xyz, ns2.crystalcloud.xyz]
+nk4: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+invite-mocha: [ns1.vultr.com, ns2.vultr.com]
+rainy21: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+k: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
+l2vy7: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+dibster: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+lumo-cloud: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+soup: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+rim: [ns1.exoscale.ch, ns1.exoscale.com, ns1.exoscale.io, ns1.exoscale.net]
+shadshards: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

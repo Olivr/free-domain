@@ -51,3 +51,4 @@ instaplot: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, free
 public: [ns1.desec.io, ns2.desec.org]
 rony: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 melange-backend: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+bal: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns34.cloudns.net]

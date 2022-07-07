@@ -33,3 +33,4 @@ balloon: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register
 blue: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 latexbuddy: [ns1.desec.io, ns2.desec.org]
 wlf: [ns1.crystalcloud.xyz, ns2.crystalcloud.xyz]
+lorebooks: [glauca.whitelabels.recaptime.eu.org] # whitelabelled nameserver for HexDNS

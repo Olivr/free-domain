@@ -35,3 +35,4 @@ latexbuddy: [ns1.desec.io, ns2.desec.org]
 wlf: [ns1.crystalcloud.xyz, ns2.crystalcloud.xyz]
 lorebooks: [glauca.whitelabels.recaptime.eu.org] # whitelabelled nameserver for HexDNS
 tmail: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register tmail.wip.la
+acey: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register acey.wip.la

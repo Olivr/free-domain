@@ -55,3 +55,4 @@ bal: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns34.cloudns.net]
 her: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # register her cluster
 net: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 recaptime-dev: [glauca.whitelabels.recaptime.eu.org, glauca2.whitelabels.recaptime.eu.org] # mostly for custom DNS in our own tailnet
+suzuki: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

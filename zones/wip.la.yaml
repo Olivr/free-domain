@@ -37,3 +37,4 @@ lorebooks: [glauca.whitelabels.recaptime.eu.org] # whitelabelled nameserver for 
 tmail: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register tmail.wip.la
 acey: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register acey.wip.la
 aayush: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register aayush.wip.la
+zhevrh: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register zhevrh.wip.la

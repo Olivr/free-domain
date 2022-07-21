@@ -58,3 +58,4 @@ recaptime-dev: [glauca.whitelabels.recaptime.eu.org, glauca2.whitelabels.recapti
 suzuki: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 pi: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # register pi cluster attempt four ig ill just let her cluster expire
 spoopymon: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+digifying: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

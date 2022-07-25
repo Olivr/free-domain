@@ -59,3 +59,4 @@ suzuki: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 pi: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # register pi cluster attempt four ig ill just let her cluster expire
 spoopymon: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 digifying: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+yourmcserver: [ns5.he.net, ns4.he.net, ns3.he.net, ns2.he.net, ns1.he.net]

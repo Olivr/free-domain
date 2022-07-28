@@ -7,7 +7,6 @@
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
 example: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.wip.la
-pckg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register pckg.wip.la
 freehostify: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org] # Register freehostify.wip.la
 abhi: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns34.cloudns.net] # Register abhi.wip.la
 tiararose: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register tiararose.wip.la

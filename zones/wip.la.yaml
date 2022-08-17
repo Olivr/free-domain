@@ -47,3 +47,4 @@ naveenxd:  [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.n
 msg:  [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register msg.wip.la
 diegoroux04: [ns5.he.net, ns4.he.net, ns3.he.net, ns2.he.net, ns1.he.net] # Request diegoroux04.wip.la
 iit: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+om: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net, ns44.cloudns.net,] # Register om.wip.la

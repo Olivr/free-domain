@@ -49,3 +49,4 @@ diegoroux04: [ns5.he.net, ns4.he.net, ns3.he.net, ns2.he.net, ns1.he.net] # Requ
 iit: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 om: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net, ns44.cloudns.net,] # Register om.wip.la
 city-info: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register city-info.wip.la
+coral: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

@@ -51,3 +51,4 @@ om: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net, ns44.cloudns.net,] # 
 city-info: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register city-info.wip.la
 coral: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 koskrit: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net] # Register koskrit.wip.la
+zb: [kiki.bunny.net, coco.bunny.net]

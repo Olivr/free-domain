@@ -73,3 +73,4 @@ azeusrecap: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 elonsms: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 cityinfo: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register cityinfo.cluster.ws
 micro: [ns1.vercel-dns.com, ns2.vercel-dns.com] 
+majestic: [ns21.cloudns.net, ns22.cloudns.net, ns23.cloudns.net, ns24.cloudns.net]

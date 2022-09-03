@@ -53,3 +53,4 @@ coral: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 koskrit: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net] # Register koskrit.wip.la
 zb: [kiki.bunny.net, coco.bunny.net]
 xenon: [kiki.bunny.net, coco.bunny.net]
+eru: [ns1.gcorelabs.net, ns2.gcdn.services]

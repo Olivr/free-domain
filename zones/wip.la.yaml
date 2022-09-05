@@ -54,3 +54,4 @@ koskrit: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net] #
 zb: [kiki.bunny.net, coco.bunny.net]
 xenon: [kiki.bunny.net, coco.bunny.net]
 eru: [ns1.gcorelabs.net, ns2.gcdn.services]
+demo: [ns1.linevast.com, ns2.linevast.com, ns1.linevast.com]

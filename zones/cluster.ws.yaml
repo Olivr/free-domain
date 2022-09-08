@@ -77,3 +77,5 @@ majestic: [ns21.cloudns.net, ns22.cloudns.net, ns23.cloudns.net, ns24.cloudns.ne
 dev-h: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 io: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
 vps: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
+hztest: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+hztesting: [ns-888.awsdns-47.net, ns-1197.awsdns-21.org, ns-1789.awsdns-31.co.uk, ns-259.awsdns-32.com.]

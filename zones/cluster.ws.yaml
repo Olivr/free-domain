@@ -77,3 +77,4 @@ majestic: [ns21.cloudns.net, ns22.cloudns.net, ns23.cloudns.net, ns24.cloudns.ne
 dev-h: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 io: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
 vps: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
+dhanush: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]

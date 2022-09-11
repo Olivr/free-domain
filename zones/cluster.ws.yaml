@@ -79,3 +79,4 @@ io: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
 vps: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
 dhanush: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]
 itbot: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
+easio: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register easio fmm18 id

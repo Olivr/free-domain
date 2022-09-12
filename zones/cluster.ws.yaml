@@ -75,8 +75,9 @@ cityinfo: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # R
 micro: [ns1.vercel-dns.com, ns2.vercel-dns.com] 
 majestic: [ns21.cloudns.net, ns22.cloudns.net, ns23.cloudns.net, ns24.cloudns.net]
 dev-h: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-io: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
-vps: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
+itio: [ns1.afraid.org, ns2.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
+itvps: [ns1.afraid.org, ns2.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
 dhanush: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]
-itbot: [ns1.desec.io, ns2.desec.org, ns1.gcorelabs.net, ns2.gcdn.services]
+itbot: [ns1.afraid.org, ns2.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
 easio: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register easio fmm18 id
+itdude: [ns1.afraid.org, ns2.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]

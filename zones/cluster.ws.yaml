@@ -84,3 +84,4 @@ itdude: [ns1.afraid.org, ns2.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
 chia: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 lavalink: [ns1.gcorelabs.net, ns2.gcdn.services]
 eins: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de]
+notadev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register notadev.cluster.ws

@@ -86,3 +86,4 @@ lavalink: [ns1.gcorelabs.net, ns2.gcdn.services]
 eins: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de]
 notadev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register notadev.cluster.ws
 backbench: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
+pramithavasumicro: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]

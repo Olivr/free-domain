@@ -88,3 +88,4 @@ notadev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net
 backbench: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
 pramithavasumicro: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
 backbencher: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
+xcrapy: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

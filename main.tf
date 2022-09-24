@@ -40,7 +40,7 @@ resource "cloudflare_record" "all" {
 locals {
   zones_to_add = merge(flatten([for zone_id, domain in var.zones :
     [for subdomain, ns_records in yamldecode(file("zones/${domain}.yaml")) :
-      { for ns_record in ns_records :
+      { for ns_record in distinct(ns_records) :
         "${domain}_${subdomain}_${ns_record}" => {
           zone_id   = zone_id
           subdomain = subdomain
@@ -58,7 +58,7 @@ output "all" {
   description = "All records for all domains."
   value = { for id, domain in var.zones :
     domain => { for subdomain, ns_records in yamldecode(file("zones/${domain}.yaml")) :
-      "${subdomain}.${domain}" => { for ns_record in ns_records :
+      "${subdomain}.${domain}" => { for ns_record in distinct(ns_records) :
         ns_record => {
           created  = cloudflare_record.all["${domain}_${subdomain}_${ns_record}"].created_on
           modified = cloudflare_record.all["${domain}_${subdomain}_${ns_record}"].modified_on

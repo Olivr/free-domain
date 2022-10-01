@@ -60,3 +60,4 @@ ssangyongsport: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com,ns4.hostry.com]
 alireza: [ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net, ns42.cloudns.net]
 ez: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register ez.wip.la
 xn--bt9h: [ns1.gcorelabs.net, ns2.gcdn.services]
+reference: [dns1.p02.nsone.net, dns2.p02.nsone.net, dns3.p02.nsone.net, dns4.p02.nsone.net]

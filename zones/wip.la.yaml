@@ -65,3 +65,4 @@ egktools: [dns1.p02.nsone.net, dns2.p02.nsone.net, dns3.p02.nsone.net, dns4.p02.
 egktransfer: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 ticket: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register ticket.wip.la
 s: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com,ns4.hostry.com]
+io: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register io.wip.la

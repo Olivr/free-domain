@@ -68,3 +68,4 @@ ticket: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 s: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com,ns4.hostry.com]
 io: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register io.wip.la
 nischay: [ns1.gcorelabs.net, ns2.gcdn.services]
+carbonvault: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

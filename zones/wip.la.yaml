@@ -71,3 +71,4 @@ nischay: [ns1.gcorelabs.net, ns2.gcdn.services]
 carbonvault: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 nfcphun: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 nyato: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+zarwarzir: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register zarwarzir.wip.la

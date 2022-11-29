@@ -124,4 +124,4 @@ alireza: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net
 nalinisart: [ns1.gcorelabs.net, ns2.gcdn.services, ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com, ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 melvin: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 luca: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
-mtknews: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+mtknews: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.dns.oraclecloud.net, ns4.p201.dns.oraclecloud.net]

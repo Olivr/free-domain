@@ -86,6 +86,15 @@ whois cluster.ws | grep -i expir
 whois wip.la | grep -i expir
 ```
 
+### Similar Services
+
+ - [is-a.dev](https://github.com/is-a-dev/register)
+ - [is-a-good.dev](https://github.com/is-a-good-dev/register)
+ - [thedev.id](https://github.com/fransallen/thedev.id)
+ - [is-not-a.dev & localplayer.dev](https://github.com/open-domains/register)
+ - [is-really.cool](https://github.com/is-really-cool/register)
+ - [js.org](https://github.com/js-org/js.org) (*JavaScript projects only*)
+
 ## Abuse
 
 We're trying to make the world a better place, **please don't abuse this system** 🙏

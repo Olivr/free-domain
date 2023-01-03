@@ -146,3 +146,4 @@ edns: [ns0.1984.is, ns1.1984.is, ns2.1984.is, ns1.1984hosting.com, ns2.1984hosti
 bs: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org]
 dns: [ns1.zilore.net, ns2.zilore.net]
 gg: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+dns: [ns1.gcorelabs.net, ns2.gcdn.services, ns1.zilore.net, ns2.zilore.net]

@@ -158,3 +158,4 @@ louieisahuman: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloud
 imagummybear: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 ramonsimon: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ramonsimon.cluster.ws
 dooj: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.cluster.ws
+forgejo: [ns1.gcorelabs.net, ns2.gcdn.services]

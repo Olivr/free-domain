@@ -34,7 +34,7 @@ ninja: [ns1.linode.com, ns2.linode.com, ns3.linode.com, ns4.linode.com, ns5.lino
 splendid: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 tweak: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 rexums: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
-snow: [ns1.vercel-dns.com, ns2.vercel-dns.com]
+snow: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 gabry: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 coral: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de]
 noma: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

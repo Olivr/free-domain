@@ -160,3 +160,4 @@ ramonsimon: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] #
 dooj: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.cluster.ws
 forgejo: [ns1.gcorelabs.net, ns2.gcdn.services]
 ccg: [ns1.hosthus.co.uk, ns2.hosthus.co.uk]
+kometa: [ns44.cloudns.net, ns43.cloudns.net, ns42.cloudns.net, ns41.cloudns.net]

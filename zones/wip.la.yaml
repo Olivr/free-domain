@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+cmspeace: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 eon: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net] # Register cooky.wip.la
 cooky: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net] # Register cooky.wip.la
 example: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.wip.la

@@ -170,4 +170,4 @@ shuchir: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 smarterasp: [NS1.SITE4NOW.NET, NS2.SITE4NOW.NET, NS3.SITE4NOW.NET]
 pt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 cmspeace: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
-thalash: [ns1.vercel-dns.com, ns2.vercel-dns.com] # register
+thalash: [ns1.vercel-dns.com, ns2.vercel-dns.com] # register thalash.cluster.ws

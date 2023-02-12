@@ -90,6 +90,7 @@ codervip: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.ne
 la: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 xwski: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 www: [ns1.desec.io, ns2.desec.org]
+malwarefight: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 msalee: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 bamfotos: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register bamfotos.wip.la
 ambix: [ns1.gcorelabs.net, ns2.gcdn.services] # Register ambix.wip.la
@@ -105,4 +106,3 @@ jenkins: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Re
 chatgpt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register chatgpt.wip.la
 voice: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-malwarefight: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

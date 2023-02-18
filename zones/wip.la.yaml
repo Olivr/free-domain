@@ -106,3 +106,5 @@ jenkins: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Re
 chatgpt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register chatgpt.wip.la
 voice: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 malwarefight: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+eric: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

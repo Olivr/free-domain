@@ -76,7 +76,7 @@ nyato: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 zarwarzir: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register zarwarzir.wip.la
 zefferno: [ns1.linode.com, ns2.linode.com, ns3.linode.com, ns4.linode.com, ns5.linode.com]
 aniruddh: [ns21.cloudns.net, ns22.cloudns.net, ns23.cloudns.net, ns24.cloudns.net] # Register aniruddh.wip.la
-cauvang : [ns41.cloudns.net, ns42.cloudns.net]
+cauvang : [ns41.cloudns.net, ns42.cloudns.net] # renew
 ssangyongsportshost : [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org]
 evan: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register evan.wip.la
 mlgtwy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

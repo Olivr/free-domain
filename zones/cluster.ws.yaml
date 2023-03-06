@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+j: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register j.cluster.ws
 climb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 example: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.cluster.ws
 cyteon: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]

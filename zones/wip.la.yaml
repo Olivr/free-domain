@@ -6,8 +6,9 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
-j: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register j.wip.la
-lt: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register lt.wip.la
+j: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register j.wip.la # renew
+lt: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register lt.wip.la # renew
+pr: [ns41.cloudns.net, ns42.coudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register pr.wip.la # renew
 p: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register p.wip.la
 eon: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net] # Register cooky.wip.la
 cooky: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net] # Register cooky.wip.la

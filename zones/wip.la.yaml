@@ -8,7 +8,7 @@
 # ---------------------------------------------------------------------------------------------------------------------
 j: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register j.wip.la
 lt: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register lt.wip.la
-p: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register p.wip.la
+p: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net] # Register p.wip.la
 eon: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net] # Register cooky.wip.la
 cooky: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net] # Register cooky.wip.la
 example: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.wip.la

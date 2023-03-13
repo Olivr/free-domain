@@ -58,6 +58,7 @@ coral: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 koskrit: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net] # Register koskrit.wip.la
 zb: [kiki.bunny.net, coco.bunny.net]
 xenon: [kiki.bunny.net, coco.bunny.net]
+anmail: [ns1.zilore.net, ns2.zilore.net]
 eru: [ns1.gcorelabs.net, ns2.gcdn.services]
 demo: [ns1.linevast.com, ns2.linevast.com, ns1.linevast.com]
 mc: [galileo.aternos.org, columbus.aternos.org]

@@ -166,6 +166,7 @@ imagummybear: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudn
 ramonsimon: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ramonsimon.cluster.ws
 dooj: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.cluster.ws
 forgejo: [ns1.gcorelabs.net, ns2.gcdn.services]
+go: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 ccg: [ns1.hosthus.co.uk, ns2.hosthus.co.uk]
 kometa: [ns44.cloudns.net, ns43.cloudns.net, ns42.cloudns.net, ns41.cloudns.net]
 colombo: [ns-2001.awsdns-58.co.uk, ns-1524.awsdns-62.org, ns-20.awsdns-02.com, ns-1010.awsdns-62.net]

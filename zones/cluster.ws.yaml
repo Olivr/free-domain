@@ -122,7 +122,7 @@ devops: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 politicoinred-landing: [dns1.p01.nsone.net, dns2.p01.nsone.net, dns3.p01.nsone.net, dns4.p01.nsone.net]
 kalpok: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 cat: [2c8701ac-faec-48e3-9ab2-b9ebe0db382c.id.repl.co]
-cauvang32: [ns42.cloudns.net, ns43.cloudns.net]
+cauvang32: [ns42.cloudns.net, ns43.cloudns.net] # renew
 kasefuchs: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 hmon: [ns101.cloudns.net, ns103.cloudns.net, ns102.cloudns.net, ns104.cloudns.net]
 hi: [ns-1298.awsdns-34.org, ns-1906.awsdns-46.co.uk, ns-376.awsdns-47.com, ns-785.awsdns-34.net]

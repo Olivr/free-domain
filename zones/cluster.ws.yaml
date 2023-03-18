@@ -9,6 +9,7 @@
 trendnet: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 calypso: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de] # Register calypso.cluster.ws
 play: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+neurobeast: [neurobeast1.github.io] # Register neurobeast.wip.la
 chess: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register j.cluster.ws
 j: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register j.cluster.ws
 climb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

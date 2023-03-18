@@ -105,6 +105,7 @@ lukitaz: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net
 jellyfin: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register jellyfin.wip.la
 minecraft: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register minecraft.wip.la
 korsilyn: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register korsilyn.wip.la
+gandom: [ns1.gcorelabs.net, ns2.gcdn.services]
 kd: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register kd.wip.la
 forgejo: [ns1.gcorelabs.net, ns2.gcdn.services] # Register forgejo.wip.la
 jenkins: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register jenkins.wip.la

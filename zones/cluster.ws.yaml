@@ -153,6 +153,7 @@ bet6: [ns-245.awsdns-30.com, ns-1498.awsdns-59.org, ns-663.awsdns-18.net, ns-185
 edns: [ns0.1984.is, ns1.1984.is, ns2.1984.is, ns1.1984hosting.com, ns2.1984hosting.com]
 bs: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org]
 dns: [ns1.zilore.net, ns2.zilore.net]
+panxo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]  #Register panxo.cluster.ws
 gg: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 akido: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net] # Register akido.cluster.ws
 ak: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de] # Register ak.cluster.ws

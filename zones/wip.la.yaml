@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+pan: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register pan.wip.la
 vi: [ns1.desec.io, ns2.desec.org] # Register vi.wip.la
 pasta: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register pasta.wip.la
 j: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register j.wip.la

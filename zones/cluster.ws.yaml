@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+adib: [jasmine.ns.cloudflare.com, roman.ns.cloudflare.com]
 pasta: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 trendnet: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 calypso: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de] # Register calypso.cluster.ws

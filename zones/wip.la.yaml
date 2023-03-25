@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+getitmc: [s-1894.awsdns-44.co.uk, s-1455.awsdns-53.org, s-283.awsdns-35.com, 09.awsdns-24.net.]
 j: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register j.wip.la
 lt: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register lt.wip.la
 pr: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register pr.wip.la

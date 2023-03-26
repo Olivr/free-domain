@@ -6,7 +6,6 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
-pan: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register pan.wip.la
 getitmc: [s-1894.awsdns-44.co.uk, s-1455.awsdns-53.org, s-283.awsdns-35.com, 09.awsdns-24.net]
 vi: [ns1.desec.io, ns2.desec.org] # Register vi.wip.la
 pasta: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register pasta.wip.la

@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+getitmc: [ns-1836.awsdns-37.co.uk, ns-1159.awsdns-16.org, ns-671.awsdns-19.net, ns-51.awsdns-06.com]
 pasta: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 trendnet: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 calypso: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de] # Register calypso.cluster.ws

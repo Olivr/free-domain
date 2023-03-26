@@ -6,7 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
-getitmc: [ns-103.awsdns-12.com, ns-911.awsdns-49.net, ns-1482.awsdns-57.org, ns-1943.awsdns-50.co.uk,]
+getitmc: [ns-103.awsdns-12.com, ns-911.awsdns-49.net, ns-1482.awsdns-57.org, ns-1943.awsdns-50.co.uk]
 tan: [ns1.vultr.com, ns2.vultr.com] # Register tan.wip.la
 w: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register w.wip.la
 pan: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register pan.wip.la

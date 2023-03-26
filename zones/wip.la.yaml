@@ -6,11 +6,15 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+<<<<<<< HEAD
 tan: [ns1.vultr.com, ns2.vultr.com] # Register tan.wip.la
 w: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register w.wip.la
 pan: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register pan.wip.la
 vi: [ns1.desec.io, ns2.desec.org] # Register vi.wip.la
 pasta: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register pasta.wip.la
+=======
+getitmc: [s-1894.awsdns-44.co.uk, s-1455.awsdns-53.org, s-283.awsdns-35.com, 09.awsdns-24.net.]
+>>>>>>> c867a0a6575039a261ae4b380862edae14f8c369
 j: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register j.wip.la
 lt: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register lt.wip.la
 pr: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register pr.wip.la

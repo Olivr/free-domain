@@ -7,6 +7,7 @@
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
 pasta: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+imy1: [leah.ns.cloudflare.com, zeus.ns.cloudflare.com]
 trendnet: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 calypso: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de] # Register calypso.cluster.ws
 play: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

@@ -84,6 +84,7 @@ galaxy: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 fabyx: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de]
 iit: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 azeusrecap: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+haire: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 elonsms: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 cityinfo: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register cityinfo.cluster.ws
 micro: [ns1.vercel-dns.com, ns2.vercel-dns.com] 

@@ -59,7 +59,7 @@ Unfortunately, you cannot use Cloudflare with these domains because they are in 
 
 Now go to the corresponding zone file for your chosen domain.
 
-For **example.cluster.ws**, edit the zone file [zones/cluster.ws.yaml](zones/cluster.ws.yaml), and follow the format used by the other domains to set the nameservers given by your DNS provider.
+For **example.cluster.ws**, edit the zone file [zones/cluster.ws.yaml](zones/cluster.ws.yaml), and follow the format used by the other domains to set the nameservers given by your DNS provider. Open the file on github.dev and add a newline after the comments, and finally register.
 
 ### Renew your domain
 

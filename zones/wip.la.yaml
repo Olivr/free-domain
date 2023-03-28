@@ -6,7 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
-my: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register my.wip.la
+my: [ns1.stackdns.com, ns2.stackdns.com, ns3.stackdns.com, ns4.stackdns.com] # Register my.wip.la
 tan: [ns1.vultr.com, ns2.vultr.com] # Register tan.wip.la
 w: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register w.wip.la
 pan: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register pan.wip.la

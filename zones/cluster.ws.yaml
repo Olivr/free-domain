@@ -188,3 +188,4 @@ thalash: [ns1.vercel-dns.com, ns2.vercel-dns.com] # register thalash.cluster.ws
 voice: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 carontho: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register carontho.cluster.ws
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+notmizzel: [s-1894.awsdns-44.co.uk, s-1455.awsdns-53.org, s-283.awsdns-35.com, 09.awsdns-24.net.]

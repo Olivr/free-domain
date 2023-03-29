@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+v: [ns1.desec.io, ns2.desec.org] # Register v.wip.la
 4u: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register 4u.wip.la
 com: [ns1.stackdns.com, ns2.stackdns.com, ns3.stackdns.com, ns4.stackdns.com] # Register com.wip.la
 my: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register my.wip.la

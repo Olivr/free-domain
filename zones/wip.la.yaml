@@ -131,3 +131,4 @@ arturrdc: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.ne
 powerisinschool: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register powerisinschool.wip.la
 dns: [ns1.desec.io, ns2.desec.org]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+ai: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net,pns41.cloudns.net, pns42.cloudns.net, pns43.cloudns.net, pns44.cloudns.net] # Register ai.wip.la

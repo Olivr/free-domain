@@ -45,6 +45,7 @@ cenegoec: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.ne
 riad: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 connor: [ns1.contabo.net, ns2.contabo.net, ns3.contabo.net]
 ticketstar: [ns-1089.awsdns-08.org, ns-1917.awsdns-47.co.uk, ns-691.awsdns-22.net, ns-182.awsdns-22.com]
+devops-rocket: [ns-cloud-d1.googledomains.com, ns-cloud-d2.googledomains.com, ns-cloud-d3.googledomains.com, ns-cloud-d4.googledomains.com]
 ninja: [ns1.linode.com, ns2.linode.com, ns3.linode.com, ns4.linode.com, ns5.linode.com]
 splendid: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 tweak: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

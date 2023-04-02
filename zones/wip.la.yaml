@@ -134,6 +134,6 @@ malwarefight: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 eric: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register eric.wip.la
 arturrdc: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register arturrdc.wip.la
 powerisinschool: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register powerisinschool.wip.la
+teleco: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register teleco.wip.la
 dns: [ns1.desec.io, ns2.desec.org]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-teleco: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register teleco.wip.la

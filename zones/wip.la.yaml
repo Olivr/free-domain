@@ -115,6 +115,7 @@ mira: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 msalee: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 bamfotos: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register bamfotos.wip.la
 ambix: [ns1.gcorelabs.net, ns2.gcdn.services] # Register ambix.wip.la
+workwork: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register workwork.wip.la
 elnexreal: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register elnexreal.wip.la
 milcondev : [arya.ns.cloudflare.com , renan.ns.cloudflare.com]
 hmon: [ns101.cloudns.net, ns102.cloudns.net, ns103.cloudns.net, ns104.cloudns.net] # Register elnexreal.wip.la

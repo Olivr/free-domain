@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+kubakaciupa: [dns1.ct8.pl, dns2.ct8.pl, dns3.ct8.pl, dns4.ct8.pl] # Register kubakaciupa.wip.la
 dresseco: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register dresseco.wip.la
 teleco: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register teleco.wip.la
 id: [ns1.desec.io, ns2.desec.org] # Register id.wip.la

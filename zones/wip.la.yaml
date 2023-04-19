@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+constanet: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 getitmcserver: [ns-482.awsdns-60.com, ns-1282.awsdns-32.org, ns-630.awsdns-14.net, ns-1841.awsdns-38.co.uk]
 atk: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]
 portal: [ns1.ns1.afraid.ns1.ns1.afraid.org]

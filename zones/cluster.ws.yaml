@@ -197,3 +197,4 @@ smartcart: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # 
 anbinvent: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de] # Register anbinvent.cluster.ws
 carontho: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register carontho.cluster.ws
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+roheem-devops: [ns-1462.awsdns-54.org, ns-1557.awsdns-02.co.uk, ns-617.awsdns-13.net, ns-33.awsdns-04.com] # Register roheem-devops.cluster.ws

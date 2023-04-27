@@ -3,7 +3,7 @@
 # For your PR to be approved, make sure you add your domain in one line without modifying the rest of the file
 #
 # 1 domain = 1 PR
-#
+# a
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
 viktor: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Register viktor.cluster.ws

@@ -202,3 +202,4 @@ carontho: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # R
 dornk-webapps: [sn1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 dornk: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+hlf-operator.cluster.ws: [ns1.digitalocean.com,ns2.digitalocean.com,ns3.digitalocean.com]

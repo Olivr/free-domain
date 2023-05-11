@@ -28,7 +28,7 @@ tan: [ns1.vultr.com, ns2.vultr.com] # Register tan.wip.la
 w: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register w.wip.la
 ren: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 pan: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register pan.wip.la
-mat: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+ccedu: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register ccedu.wip.la
 getitmc: [s-1894.awsdns-44.co.uk, s-1455.awsdns-53.org, s-283.awsdns-35.com, 09.awsdns-24.net]
 only: [jaxson.ns.cloudflare.com, laura.ns.cloudflare.com]
 vi: [ns1.desec.io, ns2.desec.org] # Register vi.wip.la

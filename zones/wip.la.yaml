@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+tfj: [ns1.gcorelabs.net, ns2.gcdn.services] # Register tfj.wip.la
 ccgba: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register ccgba.wip.la
 cceducation: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register cceducation.wip.la
 vip: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

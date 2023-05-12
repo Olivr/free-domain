@@ -201,5 +201,5 @@ anbinvent: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de] 
 carontho: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register carontho.cluster.ws
 dornk-webapps: [sn1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 dornk: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-rpiweb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+rpiweb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

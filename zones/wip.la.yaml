@@ -157,4 +157,4 @@ dns: [ns1.desec.io, ns2.desec.org]
 a: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register a.wip.la
 b: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register b.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-snowyra: [ns0.1984.is, ns1.1984hosting.com, ns1.1984.is, ns2.1984hosting.com, ns2.1984.is] # Register snowyra.wip.la for @Snowyra
+snowyra: [ns0.1984.is, ns1.1984hosting.com, ns1.1984.is, ns2.1984hosting.com, ns2.1984.is] # Register snowyra.wip.la for @Snowyra 

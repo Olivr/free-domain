@@ -6,7 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
-tgp24: [chip.ns.cloudflare.com, emma.ns.cloudflare.com]
+placeholderformydomain: [Please.Use.This.To.Put.Your.Domain.Here.I.Promise.That.It.Will.Work.Use.Github.Dev.Bye]
 synima: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 rurl: [galilea.ns.cloudflare.com, maciej.ns.cloudflare.com]
 tfj: [ns1.gcorelabs.net, ns2.gcdn.services] # Register tfj.wip.la

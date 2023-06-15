@@ -26,6 +26,7 @@ static: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 portal: [ns1.ns1.afraid.ns1.ns1.afraid.org]
 dresseco: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register dresseco.wip.la
 tarasity: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+hiromon: [ns1.desec.io, ns2.desec.org] # Register hiromon.wip.la
 teleco: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register teleco.wip.la
 id: [ns1.desec.io, ns2.desec.org] # Register id.wip.la
 v: [ns1.desec.io, ns2.desec.org] # Register v.wip.la

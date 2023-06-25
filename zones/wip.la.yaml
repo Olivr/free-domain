@@ -173,9 +173,9 @@ a: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Re
 b: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register b.wip.la
 fibner: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register fibner.wip.la
 flightreview: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register flightreview.wip.la
+oc: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register oc.wip.la
 pimachinelearning: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 bad-drivers: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 wibumart: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.dns.oraclecloud.net, ns4.p201.dns.oraclecloud.net]
 volt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-oc: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register oc.wip.la

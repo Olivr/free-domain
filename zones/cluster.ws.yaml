@@ -222,3 +222,4 @@ phantomic: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.n
 kevinnitro: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 frank-gcp: [ns-cloud-d1.googledomains.com, ns-cloud-d2.googledomains.com, ns-cloud-d3.googledomains.com, ns-cloud-d4.googledomains.com]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+trucetest: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

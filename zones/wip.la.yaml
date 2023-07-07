@@ -13,6 +13,7 @@ synima: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 z: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 rurl: [galilea.ns.cloudflare.com, maciej.ns.cloudflare.com]
 dune: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+kevins: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 tfj: [ns1.gcorelabs.net, ns2.gcdn.services] # Register tfj.wip.la
 freq: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 ccgba: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register ccgba.wip.la

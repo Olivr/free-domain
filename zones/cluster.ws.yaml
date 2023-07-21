@@ -19,6 +19,7 @@ oreade: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] #Regi
 notmizzel: [ns-1526.awsdns-62.org, ns-1775.awsdns-29.co.uk, ns-316.awsdns-39.com, ns-996.awsdns-60.net]
 pec: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 asterisk: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+voxy: [ns1.desec.io, ns2.desec.org]
 mhs: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 cesar-camila-home: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register cesar-camila-home.cluster.ws
 pasta: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

@@ -21,6 +21,7 @@ pec: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 asterisk: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 voxy: [ns1.desec.io, ns2.desec.org]
 moon: [ns1.desec.io, ns2.desec.org]
+chat: [ns1.desec.io, ns2.desec.org]
 mhs: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 cesar-camila-home: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register cesar-camila-home.cluster.ws
 pasta: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

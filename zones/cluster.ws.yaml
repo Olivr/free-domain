@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+caesar: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 mailservertest: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 binarybridge: [ns1.desec.io, ns2.desec.org]
 storm: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

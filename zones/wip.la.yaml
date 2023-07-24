@@ -100,6 +100,7 @@ naveenxd:  [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.n
 msg:  [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register msg.wip.la
 diegoroux04: [ns5.he.net, ns4.he.net, ns3.he.net, ns2.he.net, ns1.he.net] # Request diegoroux04.wip.la
 iit: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+mondongo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Register mondongo.wip.la
 om: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net, ns44.cloudns.net,] # Register om.wip.la
 city-info: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register city-info.wip.la
 coral: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+code: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 up: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mailservertest: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 binarybridge: [ns1.desec.io, ns2.desec.org]

@@ -23,6 +23,7 @@ notmizzel: [ns-1526.awsdns-62.org, ns-1775.awsdns-29.co.uk, ns-316.awsdns-39.com
 pec: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 asterisk: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 voxy: [ns1.desec.io, ns2.desec.org]
+itgt: [desiree.ns.cloudflare.com, drake.ns.cloudflare.com]
 moon: [ns1.desec.io, ns2.desec.org]
 chat: [ns2.desec.org, ns1.desec.io]
 mhs: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

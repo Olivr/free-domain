@@ -190,7 +190,7 @@ wibumart: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.
 volt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt.wip.la
 a805116: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register a805116.wip.la
 csk-ams: [ns1.dns-parking.com, ns2.dns-parking.com]
-virtualfinance: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+virtualfinance: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register virtualfinance.wip.la
 trbot: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 toho: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

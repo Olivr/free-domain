@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+causafio: [ns1.desec.io, ns2.desec.org]
 kreditpay-api: [ns-1512.awsdns-61.org, ns-1600.awsdns-08.co.uk, ns-439.awsdns-54.com, ns-712.awsdns-25.net]
 code: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 up: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

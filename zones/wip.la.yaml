@@ -156,6 +156,7 @@ ambix: [ns1.gcorelabs.net, ns2.gcdn.services] # Register ambix.wip.la
 workwork: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register workwork.wip.la
 vincyxir: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register vincyxir.wip.la
 vnxrphost: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com] # Register vnxrphost.wip.la
+cloudhosting: [NS1.AFRAID.ORG, NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG] # Register cloudhosting.wip.la
 elnexreal: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register elnexreal.wip.la
 milcondev : [arya.ns.cloudflare.com , renan.ns.cloudflare.com]
 hmon: [ns101.cloudns.net, ns102.cloudns.net, ns103.cloudns.net, ns104.cloudns.net] # Register elnexreal.wip.la

@@ -238,3 +238,4 @@ secnet: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns
 secure: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
 frank-gcp: [ns-cloud-d1.googledomains.com, ns-cloud-d2.googledomains.com, ns-cloud-d3.googledomains.com, ns-cloud-d4.googledomains.com]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+vien: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

@@ -111,7 +111,7 @@ om: [ns41.cloudns.net, ns42.cloudns.net, ns44.cloudns.net, ns44.cloudns.net,] # 
 city-info: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register city-info.wip.la
 coral: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 koskrit: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net] # Register koskrit.wip.la
-zb: [kiki.bunny.net, coco.bunny.net]
+zb: [kiki.bunny.net, coco.bunny.net] # Renew
 uros: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register uros.wip.la
 xenon: [kiki.bunny.net, coco.bunny.net]
 cry: [ns1.desec.io, ns2.desec.org] # Register cry.wip.la

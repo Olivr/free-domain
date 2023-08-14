@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+dannyhpy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 a2workshop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mashi: [ns1.desec.io, ns2.desec.org] # Register mashi.wip.la
 cosmiccycle: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
@@ -26,6 +27,8 @@ u: [ns1.desec.io, ns2.desec.org] # Register u.wip.la
 onerbt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 constanet: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 getitmcserver: [ns-482.awsdns-60.com, ns-1282.awsdns-32.org, ns-630.awsdns-14.net, ns-1841.awsdns-38.co.uk]
+mini: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+mac: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 atk: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]
 static: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 portal: [ns1.ns1.afraid.ns1.ns1.afraid.org]
@@ -111,6 +114,7 @@ koskrit: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net] #
 zb: [kiki.bunny.net, coco.bunny.net]
 uros: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register uros.wip.la
 xenon: [kiki.bunny.net, coco.bunny.net]
+cry: [ns1.desec.io, ns2.desec.org] # Register cry.wip.la
 eru: [ns1.gcorelabs.net, ns2.gcdn.services]
 demo: [ns1.linevast.com, ns2.linevast.com, ns1.linevast.com]
 mc: [galileo.aternos.org, columbus.aternos.org]
@@ -139,6 +143,7 @@ ssangyongsportshost : [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org]
 evan: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register evan.wip.la
 mlgtwy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mlgtw: [ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net, ns42.cloudns.net]
+lnz: [ns1.desec.io, ns2.desec.org]
 cookish : [ns101.cloudns.net, ns102.cloudns.net, ns103.cloudns.net, ns104.cloudns.net]
 chia : [ns1.lazymaple.pw, ns2.lazymaple.pw]
 surveillance: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
@@ -155,6 +160,8 @@ bamfotos: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Reg
 ambix: [ns1.gcorelabs.net, ns2.gcdn.services] # Register ambix.wip.la
 workwork: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register workwork.wip.la
 vincyxir: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register vincyxir.wip.la
+vnxrphost: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com] # Register vnxrphost.wip.la
+cloudhosting: [NS1.AFRAID.ORG, NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG] # Register cloudhosting.wip.la
 elnexreal: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register elnexreal.wip.la
 milcondev : [arya.ns.cloudflare.com , renan.ns.cloudflare.com]
 hmon: [ns101.cloudns.net, ns102.cloudns.net, ns103.cloudns.net, ns104.cloudns.net] # Register elnexreal.wip.la
@@ -167,6 +174,7 @@ gandom: [ns1.gcorelabs.net, ns2.gcdn.services]
 kd: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register kd.wip.la
 forgejo: [ns1.gcorelabs.net, ns2.gcdn.services] # Register forgejo.wip.la
 jenkins: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register jenkins.wip.la
+emilia: [ns1.integratedonline.dev, ns2.integratedonline.dev] # Register emilia.wip.la
 chatgpt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register chatgpt.wip.la
 voice: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 malwarefight: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
@@ -176,6 +184,7 @@ powerisinschool: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.clo
 dns: [ns1.desec.io, ns2.desec.org]
 klg-system: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register klg-system.wip.la
 phantomic: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register phantomic.cluster.ws
+phnsrv: [ns1.gcorelabs.net, ns2.gcdn.services]
 gg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register gg.wip.la
 iminecrafting: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register iminecrafting.wip.la
 fuim: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register fuim.wip.la
@@ -190,6 +199,8 @@ wibumart: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.
 volt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt.wip.la
 a805116: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register a805116.wip.la
 csk-ams: [ns1.dns-parking.com, ns2.dns-parking.com]
+virtualfinance: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 trbot: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 toho: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
+e: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

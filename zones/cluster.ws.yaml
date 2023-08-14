@@ -6,6 +6,9 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+imzihad21: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+dannyhpy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+vien: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 kreditpay-api: [ns-1512.awsdns-61.org, ns-1600.awsdns-08.co.uk, ns-439.awsdns-54.com, ns-712.awsdns-25.net]
 code: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 up: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
@@ -111,6 +114,7 @@ basswave: [ns1.linevast.com, ns2.linevast.com, ns3.linevast.com]
 galaxy: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 fabyx: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de]
 iit: [ns1.vercel-dns.com, ns2.vercel-dns.com]
+azuleum: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register azuleum.cluster.ws
 azeusrecap: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 elonsms: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 cityinfo: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register cityinfo.cluster.ws
@@ -191,6 +195,7 @@ akido: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net] # Register akido.c
 ak: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de] # Register ak.cluster.ws
 bet66: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net]
 cmsband: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net]
+itgt: [desiree.ns.cloudflare.com, drake.ns.cloudflare.com]
 darshula: [NS1.AFRAID.ORG ,NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG] # Register darshula.cluster.ws 
 my: [ns1.gcorelabs.net, ns2.gcdn.services, ns1.zilore.net, ns2.zilore.net, ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com, ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 nnwasys: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net]

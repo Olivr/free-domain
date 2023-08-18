@@ -20,6 +20,7 @@ private: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 demo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 hks: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 hksr: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+xenuryne: [NS1.AFRAID.ORG, NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG]
 supplychain: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 oreade: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] #Register oreade.cluster.ws
 notmizzel: [ns-1526.awsdns-62.org, ns-1775.awsdns-29.co.uk, ns-316.awsdns-39.com, ns-996.awsdns-60.net]

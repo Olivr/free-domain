@@ -7,6 +7,7 @@
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
 dannyhpy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+enqivity: [ns1.x10hosting.com ns2.x10hosting.com]
 a2workshop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mashi: [ns1.desec.io, ns2.desec.org] # Register mashi.wip.la
 cosmiccycle: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

@@ -245,4 +245,5 @@ secure: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns
 frank-gcp: [ns-cloud-d1.googledomains.com, ns-cloud-d2.googledomains.com, ns-cloud-d3.googledomains.com, ns-cloud-d4.googledomains.com]
 stellar: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 fawve: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+lee: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

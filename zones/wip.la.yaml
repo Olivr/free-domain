@@ -218,3 +218,4 @@ lee: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 samarastar: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 devildesk: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+verify: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register verify.wip.la

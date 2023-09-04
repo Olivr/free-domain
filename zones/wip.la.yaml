@@ -220,4 +220,5 @@ devildesk: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.n
 verify: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register verify.wip.la
 ms: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ms.wip.la
 sec: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register sec.wip.la
+ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ao.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

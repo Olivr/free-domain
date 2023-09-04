@@ -221,3 +221,4 @@ verify: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Reg
 ms: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ms.wip.la
 sec: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register sec.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+antx: [ns1.alidns.com, ns2.alidns.com] # Register antx.wip.la

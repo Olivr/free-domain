@@ -223,5 +223,5 @@ ms: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Registe
 sec: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register sec.wip.la
 ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ao.wip.la
 ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.wip.la
-office9900: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register office9900.wip.la
+office9900: [ns1.hostry.com ns2.hostry.com ns3.hostry.com ns4.hostry.com] # Modify office9900.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

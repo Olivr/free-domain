@@ -119,7 +119,6 @@ koskrit: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net] #
 zb: [kiki.bunny.net, coco.bunny.net]
 uros: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register uros.wip.la
 xenon: [kiki.bunny.net, coco.bunny.net]
-h21: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 cry: [ns1.desec.io, ns2.desec.org] # Register cry.wip.la
 eru: [ns1.gcorelabs.net, ns2.gcdn.services]
 demo: [ns1.linevast.com, ns2.linevast.com, ns1.linevast.com]
@@ -224,3 +223,4 @@ sec: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regist
 ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ao.wip.la
 ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+h21: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

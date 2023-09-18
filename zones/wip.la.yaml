@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+shadowgaming100-project: [ns0.1984.is, ns1.1984hosting.com, ns1.1984.is, ns2.1984hosting.com, ns2.1984.is] 
 infinityx: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register infinityx.wip.la
 dannyhpy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 a2workshop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

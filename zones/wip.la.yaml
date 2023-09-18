@@ -23,6 +23,7 @@ h21: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 dune: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 kevins: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 tfj: [ns1.gcorelabs.net, ns2.gcdn.services] # Register tfj.wip.la
+shadowgaming100-project: [ns0.1984.is, ns1.1984hosting.com, ns1.1984.is, ns2.1984hosting.com, ns2.1984.is]
 freq: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 ccgba: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register ccgba.wip.la
 aren: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

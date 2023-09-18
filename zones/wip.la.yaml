@@ -17,6 +17,7 @@ tgp24: [chip.ns.cloudflare.com, emma.ns.cloudflare.com]
 synima: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 z: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 rurl: [galilea.ns.cloudflare.com, maciej.ns.cloudflare.com]
+shadowgaming100-project: [ns0.1984.is, ns1.1984hosting.com, ns1.1984.is, ns2.1984hosting.com, ns2.1984.is] # Register shadowgaming100-projet
 fluffyindustries: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 jpis12cs: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 h21: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
@@ -228,4 +229,4 @@ ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Registe
 ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.wip.la
 office9900: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register office9900.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-shadowgaming100-project: [ns0.1984.is, ns1.1984hosting.com, ns1.1984.is, ns2.1984hosting.com, ns2.1984.is]
+

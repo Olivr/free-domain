@@ -87,6 +87,7 @@ twoeye: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 zekx: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register zekx.wip.la
 kucing: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register kucing.wip.la
 kolahgermezi: [irena.ns.cloudflare.com, lynn.ns.cloudflare.com]
+imzihad21: [ns-1170.awsdns-18.org, ns-2001.awsdns-58.co.uk, ns-855.awsdns-42.net, ns-21.awsdns-02.com] # Register imzihad21.wip.la
 sparrowisland: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register sparrowisland.wip.la
 exanoff: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register exanoff.wip.la
 laguweebs: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register laguweebs.wip.la

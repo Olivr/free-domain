@@ -16,6 +16,7 @@ marco-rhel: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.
 tgp24: [chip.ns.cloudflare.com, emma.ns.cloudflare.com]
 synima: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 z: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+big: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register big.wip.la
 rurl: [galilea.ns.cloudflare.com, maciej.ns.cloudflare.com]
 fluffyindustries: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 jpis12cs: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

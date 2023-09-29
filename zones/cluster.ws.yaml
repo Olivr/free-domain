@@ -38,6 +38,7 @@ cesar-camila-home: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.c
 pasta: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 trendnet: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 calypso: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de] # Register calypso.cluster.ws
+dhaloi: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register dhaloi.cluster.ws
 play: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 haire: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mail: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register mail.cluster.ws

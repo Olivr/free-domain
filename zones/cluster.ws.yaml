@@ -259,5 +259,6 @@ ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Registe
 ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.cluster.ws
 ballsmasher: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 35paradestate: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-kyoko: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+kyoko: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] 
+secuit: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns34.cloudns.net]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

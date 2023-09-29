@@ -17,6 +17,7 @@ tgp24: [chip.ns.cloudflare.com, emma.ns.cloudflare.com]
 synima: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 z: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 rurl: [galilea.ns.cloudflare.com, maciej.ns.cloudflare.com]
+fluffyindustries: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 jpis12cs: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 h21: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 dune: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
@@ -86,6 +87,7 @@ twoeye: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 zekx: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register zekx.wip.la
 kucing: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register kucing.wip.la
 kolahgermezi: [irena.ns.cloudflare.com, lynn.ns.cloudflare.com]
+imzihad21: [ns-1170.awsdns-18.org, ns-2001.awsdns-58.co.uk, ns-855.awsdns-42.net, ns-21.awsdns-02.com] # Register imzihad21.wip.la
 sparrowisland: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register sparrowisland.wip.la
 exanoff: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register exanoff.wip.la
 laguweebs: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register laguweebs.wip.la
@@ -174,6 +176,7 @@ hmon: [ns101.cloudns.net, ns102.cloudns.net, ns103.cloudns.net, ns104.cloudns.ne
 lukitaz: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register lukitaz.wip.la
 jellyfin: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register jellyfin.wip.la
 audiobooks: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register audiobooks.wip.la
+files: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register files.wip.la
 unoqaz: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register unoqaz.wip.la
 minecraft: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register minecraft.wip.la
 korsilyn: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register korsilyn.wip.la
@@ -204,6 +207,7 @@ pimachinelearning: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean
 bad-drivers: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 wibumart: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.dns.oraclecloud.net, ns4.p201.dns.oraclecloud.net]
 volt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt.wip.la
+volt-dev: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt-dev.wip.la
 a805116: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register a805116.wip.la
 csk-ams: [ns1.dns-parking.com, ns2.dns-parking.com]
 virtualfinance: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
@@ -215,7 +219,9 @@ e: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 url: [ns21.cloudns.net, ns22.cloudns.net, ns23.cloudns.net, ns24.cloudns.net]
 o: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 x: [ns1.ns1.desec.io, ns2.desec.org]
+music: [ns41.cloudns.net, ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register music.wip.la
 hub: [ns1.ns1.desec.io, ns2.desec.org]
+rs: [ns41.cloudns.net, ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register rs.wip.la
 lee: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 samarastar: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 devildesk: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
@@ -225,4 +231,6 @@ sec: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regist
 ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ao.wip.la
 ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.wip.la
 office9900: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register office9900.wip.la
+get: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register get.wip.la
+verimas: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register verimas.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

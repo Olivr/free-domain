@@ -45,6 +45,7 @@ hiromon: [ns1.desec.io, ns2.desec.org] # Register hiromon.wip.la
 teleco: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register teleco.wip.la
 id: [ns1.desec.io, ns2.desec.org] # Register id.wip.la
 v: [ns1.desec.io, ns2.desec.org] # Register v.wip.la
+osc: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 keju: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 my2bot: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 4u: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register 4u.wip.la

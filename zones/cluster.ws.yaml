@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+dgyt0007: [NS1.AFRAID.ORG, NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG]
 scv: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Thakn you
 cdn: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 secuit: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns44.cloudns.net]

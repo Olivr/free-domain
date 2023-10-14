@@ -1,9 +1,7 @@
 # ---------------------------------------------------------------------------------------------------------------------
 # This will only create NS records so you can manage your domain with your DNS provider
 # For your PR to be approved, make sure you add your domain in one line without modifying the rest of the file
-#
 # 1 domain = 1 PR
-#
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
 dgyt0007: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]

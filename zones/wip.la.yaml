@@ -245,3 +245,4 @@ valmyapptest: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudn
 play: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register play.wip.la
 jacg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register jacg.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+selfharm: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

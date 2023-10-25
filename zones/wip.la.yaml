@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+comunitybots: [ns1.desec.io, ns2.desec.org]
 infinityx: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register infinityx.wip.la
 dannyhpy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 a2workshop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

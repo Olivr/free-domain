@@ -213,6 +213,7 @@ flightreview: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudn
 oc: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register oc.wip.la
 pimachinelearning: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 bad-drivers: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+wibuapi: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register wibuapi.wip.la
 wibumart: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.dns.oraclecloud.net, ns4.p201.dns.oraclecloud.net]
 volt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt.wip.la
 volt-dev: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt-dev.wip.la

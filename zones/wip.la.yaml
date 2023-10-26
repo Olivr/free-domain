@@ -23,6 +23,7 @@ quikautomobili: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.clou
 jpis12cs: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 h21: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 6996: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+selfharm: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 dune: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 kevins: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 tfj: [ns1.gcorelabs.net, ns2.gcdn.services] # Register tfj.wip.la

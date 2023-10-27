@@ -33,6 +33,7 @@ supplychain: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 oreade: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] #Register oreade.cluster.ws
 notmizzel: [ns-1526.awsdns-62.org, ns-1775.awsdns-29.co.uk, ns-316.awsdns-39.com, ns-996.awsdns-60.net]
 pec: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+siliconecb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register siliconecb.cluster.ws
 asterisk: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 voxy: [ns1.desec.io, ns2.desec.org]
 moon: [ns1.desec.io, ns2.desec.org]

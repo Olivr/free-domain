@@ -203,7 +203,7 @@ dns: [ns1.desec.io, ns2.desec.org]
 klg-system: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register klg-system.wip.la
 phantomic: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register phantomic.cluster.ws
 phnsrv: [ns1.gcorelabs.net, ns2.gcdn.services]
-mycodelab-backend: [ns1.desec.io, ns2.desec.org] # Register mycodelab-backend.wip.la
+mycodelab-backend: [curitiba.ns.porkbun.com, fortaleza.ns.porkbun.com, maceio.ns.porkbun.com, salvador.ns.porkbun.com] # Register mycodelab-backend.wip.la
 gg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register gg.wip.la
 iminecrafting: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register iminecrafting.wip.la
 fuim: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register fuim.wip.la

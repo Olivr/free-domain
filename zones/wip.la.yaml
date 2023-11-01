@@ -253,3 +253,4 @@ sergio: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Regis
 ship-test-task: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register ship-test-task.wip.la
 jacg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register jacg.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+fabyx: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

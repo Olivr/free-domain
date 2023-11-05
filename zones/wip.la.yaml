@@ -256,3 +256,4 @@ jacg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] #
 eltorjmen: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register eltorjmen.wip.la
 fabyx: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+bochen: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register bochen.wip.la

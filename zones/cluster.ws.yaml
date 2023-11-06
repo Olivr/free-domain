@@ -6,6 +6,10 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+scv: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Thakn you
+cdn: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+secuit: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns44.cloudns.net]
+selfharming: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns44.cloudns.net]
 imzihad21: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 dannyhpy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 vien: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
@@ -15,6 +19,8 @@ up: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 auzw: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mailservertest: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 binarybridge: [ns1.desec.io, ns2.desec.org]
+coleaderme: [ns1.afraid.org,ns2.afraid.org,ns3.afraid.org,ns4.afraid.org] #Register coleaderme.cluster.ws
+dhaloi: [hydrogen.ns.hetzner.com, oxygen.ns.hetzner.com, helium.ns.hetzner.de] # Register dhaloi.cluster.ws
 storm: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 viktor: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Register viktor.cluster.ws
 private: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
@@ -27,10 +33,13 @@ supplychain: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 oreade: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] #Register oreade.cluster.ws
 notmizzel: [ns-1526.awsdns-62.org, ns-1775.awsdns-29.co.uk, ns-316.awsdns-39.com, ns-996.awsdns-60.net]
 pec: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+siliconecb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register siliconecb.cluster.ws
 asterisk: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 voxy: [ns1.desec.io, ns2.desec.org]
 moon: [ns1.desec.io, ns2.desec.org]
 chat: [ns2.desec.org, ns1.desec.io]
+mycodelab-backend: [ns1.desec.io, ns2.desec.org] # Register mycodelab-backend.cluster.ws
+backend: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] 
 mhs: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 ssh: [ns1.desec.io, ns2.desec.org]
 cesar-camila-home: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register cesar-camila-home.cluster.ws
@@ -140,6 +149,7 @@ backbencher: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns
 xcrapy: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 dot: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 py: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+ee: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 dyn: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 mr-itg: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
 itg: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
@@ -189,6 +199,7 @@ route: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 spiderservers: [ns1.gcorelabs.net, ns2.gcdn.services]
 frank: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 frank-k8s: [ns-cloud-a1.googledomains.com, ns-cloud-a2.googledomains.com, ns-cloud-a3.googledomains.com, ns-cloud-a4.googledomains.com]
+fwb: [ns-cloud-a1.googledomains.com, ns-cloud-a2.googledomains.com, ns-cloud-a3.googledomains.com, ns-cloud-a4.googledomains.com]
 kimchi: [ns1.digitalocean.com,ns2.digitalocean.com,ns3.digitalocean.com]
 linuxenforcer: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 klops: [ns1.digitalocean.com,ns2.digitalocean.com,ns3.digitalocean.com]
@@ -245,10 +256,25 @@ kevinnitro123: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, 
 securenetworx: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 secnet: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
 secure: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
+home: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
+one: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 frank-gcp: [ns-cloud-d1.googledomains.com, ns-cloud-d2.googledomains.com, ns-cloud-d3.googledomains.com, ns-cloud-d4.googledomains.com]
 stellar: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 fawve: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+chop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+devno: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+ship: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ao.cluster.ws
 verify: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register verify.cluster.ws
 ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.cluster.ws
+ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.cluster.ws
+ballsmasher: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+35paradestate: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+kyoko: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+ship-test-task: [coraline.ns.cloudflare.com, glen.ns.cloudflare.com]
+nlocalhost: [ns1.pq.hosting, ns2.pq.hosting]
+jtechs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register jtechs.cluster.ws
+pixel-test: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+shopy777: [sam.ns.cloudflare.com, sasha.ns.cloudflare.com]
+shopy7: [ns-115.awsdns-14.com, ns-924.awsdns-51.net, ns-1184.awsdns-20.org, ns-1668.awsdns-16.co.uk]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

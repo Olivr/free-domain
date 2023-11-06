@@ -278,3 +278,4 @@ shopy7: [ns-115.awsdns-14.com, ns-924.awsdns-51.net, ns-1184.awsdns-20.org, ns-1
 verify: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register verify.cluster.ws
 apihub: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register apihub.cluster.ws
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+winter: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] #Register winter.cluster.ws

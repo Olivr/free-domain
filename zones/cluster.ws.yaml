@@ -277,3 +277,4 @@ shopy777: [sam.ns.cloudflare.com, sasha.ns.cloudflare.com]
 shopy7: [ns-115.awsdns-14.com, ns-924.awsdns-51.net, ns-1184.awsdns-20.org, ns-1668.awsdns-16.co.uk]
 verify: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register verify.cluster.ws
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+apihub: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register apihub.cluster.ws

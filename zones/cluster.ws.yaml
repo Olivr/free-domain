@@ -274,6 +274,7 @@ kyoko: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 ship-test-task: [coraline.ns.cloudflare.com, glen.ns.cloudflare.com]
 nlocalhost: [ns1.pq.hosting, ns2.pq.hosting]
 jtechs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register jtechs.cluster.ws
+nhr: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com] # Register nhr.cluster.ws
 pixel-test: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 shopy777: [sam.ns.cloudflare.com, sasha.ns.cloudflare.com]
 shopy7: [ns-115.awsdns-14.com, ns-924.awsdns-51.net, ns-1184.awsdns-20.org, ns-1668.awsdns-16.co.uk]

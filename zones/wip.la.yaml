@@ -7,6 +7,7 @@
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
 graphify: [ns1.vercel-dns.com, ns2.vercel-dns.com]
+_vercel: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 communitybots: [ns1.desec.io, ns2.desec.org]
 infinityx: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register infinityx.wip.la
 dannyhpy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

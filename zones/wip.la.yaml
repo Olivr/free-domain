@@ -13,6 +13,7 @@ infinityx: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.n
 dannyhpy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 a2workshop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mashi: [ns1.desec.io, ns2.desec.org] # Register mashi.wip.la
+honar: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 guessme: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 cosmiccycle: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 marco-rhel: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register marco-rhel.wip.la

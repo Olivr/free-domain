@@ -207,6 +207,7 @@ klg-system: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.
 phantomic: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register phantomic.cluster.ws
 phnsrv: [ns1.gcorelabs.net, ns2.gcdn.services]
 backend: [ns1.desec.io, ns2.desec.org] # Register backend.wip.la
+hexchange: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register hexchange.wip.la
 mycodelab-backend: [curitiba.ns.porkbun.com, fortaleza.ns.porkbun.com, maceio.ns.porkbun.com, salvador.ns.porkbun.com] # Register mycodelab-backend.wip.la
 gg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register gg.wip.la
 iminecrafting: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register iminecrafting.wip.la

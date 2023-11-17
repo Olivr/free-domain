@@ -92,6 +92,7 @@ eaustin6: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.ne
 doublesquare: [helium.ns.hetzner.de, hydrogen.ns.hetzner.com, oxygen.ns.hetzner.com] #Register doublesquare.wip.la
 missemily: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register missemily.wip.la
 bionic: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net] #Register bionic.wip.la
+hexchange: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register hexchange.wip.la
 twoeye: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] #Register twoeye.wip.la
 zekx: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register zekx.wip.la
 kucing: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register kucing.wip.la

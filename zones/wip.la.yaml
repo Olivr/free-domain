@@ -163,6 +163,7 @@ evan: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regis
 mlgtwy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mlgtw: [ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net, ns42.cloudns.net]
 lnz: [ns1.desec.io, ns2.desec.org]
+potatoturnipdice: [ns1.dns-parking.com, ns1.dns-parking.com] #Register potatoturnipdice.wip.la
 cookish : [ns101.cloudns.net, ns102.cloudns.net, ns103.cloudns.net, ns104.cloudns.net]
 chia : [ns1.lazymaple.pw, ns2.lazymaple.pw]
 surveillance: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

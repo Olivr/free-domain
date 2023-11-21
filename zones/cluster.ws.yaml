@@ -6,6 +6,8 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+cramik: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
+vlzh: [ns-1511.awsdns-60.org, ns-1614.awsdns-09.co.uk, ns-188.awsdns-23.com, ns-978.awsdns-58.net] # Register vlzh.cluster.ws
 scv: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Thakn you
 cdn: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 secuit: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns44.cloudns.net]
@@ -55,6 +57,7 @@ panxo: [nsq.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Registe
 es: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register es.cluster.ws
 j: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register j.cluster.ws
 gba: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register gba.cluster.ws
+eobee: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register eobee.cluster.ws
 climb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 example: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.cluster.ws
 cyteon: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
@@ -195,6 +198,7 @@ blatantrp: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.n
 ajnebalreves: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 dee: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 cronix: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+devildesk: [ns0.1984.is, ns1.1984hosting.com, ns1.1984.is, ns2.1984hosting.com, ns2.1984.is]
 route: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 spiderservers: [ns1.gcorelabs.net, ns2.gcdn.services]
 frank: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
@@ -272,8 +276,13 @@ kyoko: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 ship-test-task: [coraline.ns.cloudflare.com, glen.ns.cloudflare.com]
 nlocalhost: [ns1.pq.hosting, ns2.pq.hosting]
 jtechs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register jtechs.cluster.ws
+nhr: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com] # Register nhr.cluster.ws
 pixel-test: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 shopy777: [sam.ns.cloudflare.com, sasha.ns.cloudflare.com]
 shopy7: [ns-115.awsdns-14.com, ns-924.awsdns-51.net, ns-1184.awsdns-20.org, ns-1668.awsdns-16.co.uk]
 verify: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register verify.cluster.ws
+apihub: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register apihub.cluster.ws
+classlink: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+kmbot: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
+failedterps: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

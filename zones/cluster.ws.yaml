@@ -40,6 +40,7 @@ asterisk: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 voxy: [ns1.desec.io, ns2.desec.org]
 moon: [ns1.desec.io, ns2.desec.org]
 chat: [ns2.desec.org, ns1.desec.io]
+fy: [ns2.desec.org, ns1.desec.io]
 mycodelab-backend: [ns1.desec.io, ns2.desec.org] # Register mycodelab-backend.cluster.ws
 backend: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] 
 mhs: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

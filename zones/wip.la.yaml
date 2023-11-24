@@ -266,3 +266,4 @@ nows: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regis
 micro: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register micro.wip.la
 mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register mx.wip.la
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+shopy: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]

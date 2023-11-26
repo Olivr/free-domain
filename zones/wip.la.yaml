@@ -266,4 +266,5 @@ nows: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regis
 micro: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register micro.wip.la
 mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register mx.wip.la
 shopy: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
+shapi: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

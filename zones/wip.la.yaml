@@ -269,3 +269,4 @@ mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Registe
 shopy: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 shapi: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+lh: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org] # Register lh.wip.la

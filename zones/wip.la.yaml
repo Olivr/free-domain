@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+lh: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org] # Register lh.wip.la
 naz-serv: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register naz-serv.wip.la
 graphify: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 communitybots: [ns1.desec.io, ns2.desec.org]
@@ -269,4 +270,3 @@ mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Registe
 shopy: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 shapi: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-lh: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org] # Register lh.wip.la

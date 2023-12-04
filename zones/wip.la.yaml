@@ -266,7 +266,7 @@ now: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Regist
 nows: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register nows.wip.la
 micro: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register micro.wip.la
 mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register mx.wip.la
+shopy: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
+shapi: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 px: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
-shopy: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
-shapi: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

@@ -8,6 +8,7 @@
 # ---------------------------------------------------------------------------------------------------------------------
 naz-serv: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register naz-serv.wip.la
 graphify: [ns1.vercel-dns.com, ns2.vercel-dns.com]
+shroud: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 communitybots: [ns1.desec.io, ns2.desec.org]
 thesirtiger: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 infinityx: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register infinityx.wip.la

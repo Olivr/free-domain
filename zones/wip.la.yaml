@@ -7,6 +7,7 @@
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
 naz-serv: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register naz-serv.wip.la
+galseid: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 graphify: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 communitybots: [ns1.desec.io, ns2.desec.org]
 thesirtiger: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
@@ -272,5 +273,4 @@ shapi: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 djiweb: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 djiapi: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 ship-marketplace: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
-galseid: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

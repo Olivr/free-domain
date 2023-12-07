@@ -290,5 +290,5 @@ kmbot: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 failedterps: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register mx.cluster.ws
 testapp: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
-ship-marketplace: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net, init-api-fu7c.onrender.com, init-web-fu7c.onrender.com]
+ship-marketplace: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

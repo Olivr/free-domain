@@ -252,7 +252,7 @@ ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Registe
 office9900: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register office9900.wip.la
 get: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register get.wip.la
 verimas: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register verimas.wip.la
-pinarro: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register pinarro.wip.la
+pinarro: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register pinarro.wip.la //
 paralecttest: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 valmyapptest: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 play: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register play.wip.la

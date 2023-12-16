@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+techgeex: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org]
 storm-monitor: [ns-cloud-c1.googledomains.com, ns-cloud-c2.googledomains.com, ns-cloud-c3.googledomains.com, ns-cloud-c4.googledomains.com]
 cramik: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 vlzh: [ns-1511.awsdns-60.org, ns-1614.awsdns-09.co.uk, ns-188.awsdns-23.com, ns-978.awsdns-58.net] # Register vlzh.cluster.ws
@@ -297,4 +298,3 @@ sweet: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 pocholo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 urayoru: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
-techgeex: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org]

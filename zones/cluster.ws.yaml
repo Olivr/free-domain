@@ -298,5 +298,4 @@ sweet: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 pocholo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 urayoru: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
-dbl: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register dbl.cluster.ws
-d: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Am I able to register two subdomains at the same time?
+dbl: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register dbl.cluster.ws, sadly cannot request 2 at the same time ;(

@@ -265,7 +265,7 @@ eltorjmen: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] 
 fabyx: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 i: [ns1.desec.io, ns2.desec.org] # Register i.wip.la
 now: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register now.wip.la
-nows: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register no😊✋✋✋s.wip.la
+nows: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register nows.wip.la
 micro: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register micro.wip.la
 mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register mx.wip.la
 px: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

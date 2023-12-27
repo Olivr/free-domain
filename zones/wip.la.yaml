@@ -193,7 +193,7 @@ audiobooks: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] #
 files: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register files.wip.la
 unoqaz: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register unoqaz.wip.la
 minecraft: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register minecraft.wip.la
-korsilyn: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register korsilyn.wip.la
+korsilyn: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # renew
 gandom: [ns1.gcorelabs.net, ns2.gcdn.services]
 webparalecttest: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 kd: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register kd.wip.la

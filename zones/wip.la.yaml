@@ -279,5 +279,6 @@ ship-marketplace: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudn
 galseid: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 pocholo: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 test-domain: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
+test-domain2: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
 pupa: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

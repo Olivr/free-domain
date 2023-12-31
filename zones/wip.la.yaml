@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+pr: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Override previous thingymagic
 1102: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 naz-serv: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register naz-serv.wip.la
 graphify: [ns1.vercel-dns.com, ns2.vercel-dns.com]

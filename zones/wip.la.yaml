@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+wiisc: [dns1.serv00.com, dns2.serv00.com]
 leaf5ter: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 artgame: [ns1.desec.io, ns2.desec.org]
 farel: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]

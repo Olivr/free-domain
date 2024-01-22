@@ -314,3 +314,4 @@ wfj: [alec.ns.cloudflare.com, sloan.ns.cloudflare.com, sloan.ns.cloudflare.com, 
 luckypoem: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 higgs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+ryuxyro: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # register ryuxyro.wip.la

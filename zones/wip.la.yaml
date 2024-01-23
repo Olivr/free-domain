@@ -314,5 +314,6 @@ wfj: [alec.ns.cloudflare.com, sloan.ns.cloudflare.com, sloan.ns.cloudflare.com, 
 luckypoem: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 nbl: [brian.ns.cloudflare.com, raina.ns.cloudflare.com, raina.ns.cloudflare.com, raina.ns.cloudflare.com]
 wzfou: [ns1.huaweicloud-dns.cn, ns1.huaweicloud-dns.com, ns1.huaweicloud-dns.net, ns1.huaweicloud-dns.org]
+hostloc: [ns1.huaweicloud-dns.cn, ns1.huaweicloud-dns.com, ns1.huaweicloud-dns.net, ns1.huaweicloud-dns.org]
 higgs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

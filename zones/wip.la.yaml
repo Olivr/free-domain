@@ -72,7 +72,6 @@ my: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # R
 mc-uwp-dl: [ns1.desec.io, ns2.desec.org] # Register mc-uwp-dl.wip.la
 beck: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 tan: [ns1.vultr.com, ns2.vultr.com] # Register tan.wip.la
-cnsn: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net] # Register cnsn.wip.la
 janeaustin: [ns101.cloudns.net, ns102.cloudns.net, ns103.cloudns.net, ns104.cloudns.net]
 w: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] # Register w.wip.la
 ren: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
@@ -320,3 +319,4 @@ hostloc: [ns1.huaweicloud-dns.cn, ns1.huaweicloud-dns.com, ns1.huaweicloud-dns.n
 zzhsjksk: [NS1.AFRAID.ORG, NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG]
 higgs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+cnsn: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net] # Register cnsn.wip.la

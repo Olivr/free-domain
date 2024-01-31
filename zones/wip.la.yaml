@@ -6,7 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
-cnsn: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net] # Register cnsn.wip.la 
+cnsn: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net] # Register cnsn.wip.la
 ps: [ns1.desec.io, ns2.desec.org]
 wiish: [dns1.serv00.com, dns2.serv00.com] # Register wiish.wip.la
 wiisc: [dns1.serv00.com, dns2.serv00.com]

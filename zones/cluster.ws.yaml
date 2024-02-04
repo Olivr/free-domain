@@ -69,6 +69,7 @@ gba: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register
 eobee: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register eobee.cluster.ws
 climb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 example: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.cluster.ws
+awesomepeople: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register awesomepeople.cluster.ws
 cyteon: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
 pickletest: [NS1.AFRAID.ORG ,NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG]
 a: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+ai: [ns11.cloudns.net, ns12.cloudns.net, ns13.cloudns.net, ns14.cloudns.net]
 d: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register d.cluster.ws
 storm-monitor: [ns-cloud-c1.googledomains.com, ns-cloud-c2.googledomains.com, ns-cloud-c3.googledomains.com, ns-cloud-c4.googledomains.com]
 cramik: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
@@ -305,4 +306,3 @@ sweet: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 pocholo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 urayoru: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
-ai: [ns11.cloudns.net, ns12.cloudns.net, ns13.cloudns.net, ns14.cloudns.net]

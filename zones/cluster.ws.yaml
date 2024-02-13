@@ -34,8 +34,9 @@ storm: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 viktor: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Register viktor.cluster.ws
 private: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 demo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
-hks: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
-hksr: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+hks: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # renew 1
+hksr: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # renew 1
+white: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 xenuryne: [NS1.AFRAID.ORG, NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG]
 david: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 supplychain: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

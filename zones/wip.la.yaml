@@ -8,7 +8,6 @@
 # ---------------------------------------------------------------------------------------------------------------------
 ps: [ns1.desec.io, ns2.desec.org]
 k: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
-m: [ns1.dynv6.com, ns2.dynv6.com, ns3.dynv6.com]
 wiish: [dns1.serv00.com, dns2.serv00.com] # Register wiish.wip.la
 wiisc: [dns1.serv00.com, dns2.serv00.com]
 leaf5ter: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

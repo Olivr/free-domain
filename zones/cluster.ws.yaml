@@ -34,6 +34,7 @@ storm: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 viktor: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Register viktor.cluster.ws
 private: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 demo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+az: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #add 15.02.2024
 hks: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 hksr: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 prosd: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net] #add 13.02.2024

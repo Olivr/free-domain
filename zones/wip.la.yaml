@@ -273,6 +273,7 @@ valmyapptest: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudn
 play: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register play.wip.la
 fr : [galileo.aternos.org, columbus.aternos.org] # Register fr.wip.la
 sergiy0: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register sergio.wip.la
+shopyweb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register shopyweb.wip.la
 sergio: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register sergio.wip.la
 ship-test-task: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register ship-test-task.wip.la
 jacg: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register jacg.wip.la

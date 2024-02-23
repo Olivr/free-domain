@@ -122,7 +122,7 @@ snow: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 alpha: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register alpha.wip.la
 sanzz: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 itransition-intern: [ns1.linode.com, ns2.linode.com, ns3.linode.com, ns4.linode.com, ns5.linode.com]
-quo: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+quo: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # renew
 balloon: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns34.cloudns.net]
 blue: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 wlf: [ns1.crystalcloud.xyz, ns2.crystalcloud.xyz]
@@ -328,4 +328,3 @@ zzhsjksk: [NS1.AFRAID.ORG, NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG]
 uy-1: [ns1.desec.io, ns2.desec.org, ns1.desec.io, ns2.desec.org]
 connect: [ns1.desec.io, ns2.desec.org, ns1.desec.io, ns2.desec.org]
 higgs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
-nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

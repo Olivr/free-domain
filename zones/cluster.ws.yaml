@@ -94,7 +94,7 @@ missemily: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.n
 lantern: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 earth: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 pixelbedrock: [galileo.aternos.org, columbus.aternos.org]
-honar: [irena.ns.cloudflare.com, lynn.ns.cloudflare.com]
+honar: [irena.ns.cloudflare.com, lynn.ns.cloudflare.com] #1
 meteor: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 cenego: [cloud1.cloudmailin.net, cloud2.cloudmailin.net, cloud3.cloudmailin.net]
 cenegoec: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

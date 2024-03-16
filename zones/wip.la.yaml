@@ -332,3 +332,4 @@ connect: [ns1.desec.io, ns2.desec.org, ns1.desec.io, ns2.desec.org]
 higgs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 is: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+xoxo: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net] #Register xoxo.wip.la

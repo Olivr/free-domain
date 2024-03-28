@@ -180,6 +180,7 @@ ssangyongsportshost : [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org]
 evan: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register evan.wip.la
 mlgtwy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 mlgtw: [ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net, ns42.cloudns.net]
+l: [ns1.desec.io, ns2.desec.org] # Register l.wip.la
 lnz: [ns1.desec.io, ns2.desec.org]
 cookish : [ns101.cloudns.net, ns102.cloudns.net, ns103.cloudns.net, ns104.cloudns.net]
 chia : [ns1.lazymaple.pw, ns2.lazymaple.pw]

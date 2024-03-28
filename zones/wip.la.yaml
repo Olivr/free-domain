@@ -258,7 +258,7 @@ url: [ns21.cloudns.net, ns22.cloudns.net, ns23.cloudns.net, ns24.cloudns.net]
 o: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 n: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 x: [ns1.ns1.desec.io, ns2.desec.org]
-ea: [dns1.serv00.com, dns2.serv00.com] l
+ea: [dns1.serv00.com, dns2.serv00.com] #
 music: [ns41.cloudns.net, ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register music.wip.la
 hub: [ns1.ns1.desec.io, ns2.desec.org]
 rs: [ns41.cloudns.net, ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register rs.wip.la

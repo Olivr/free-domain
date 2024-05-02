@@ -321,3 +321,4 @@ anvilbyte: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 jaris: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 is: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+cal: [hydrogen.ns.hetzner.com, oxygen.ns.hetzner.com, helium.ns.hetzner.de] # Register cal.cluster.ws

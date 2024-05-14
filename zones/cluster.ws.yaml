@@ -314,6 +314,7 @@ mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Registe
 snoopdesigns: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 testapp: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 rauf-21: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
+shroomjak: [ns1.desec.io, ns2.desec.org] # Register shroomjak.cluster.ws
 ship-marketplace: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net, init-api-fu7c.onrender.com, init-web-fu7c.onrender.com]
 sweet: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 pocholo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

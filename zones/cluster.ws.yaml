@@ -291,7 +291,7 @@ frank-gcp: [ns-cloud-d1.googledomains.com, ns-cloud-d2.googledomains.com, ns-clo
 stellar: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 fawve: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 chop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
-devno: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+devno: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #1
 ship: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 ao: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ao.cluster.ws
 ya: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ya.cluster.ws

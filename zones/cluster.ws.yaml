@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+abctech: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.dns.oraclecloud.net, ns4.p201.dns.oraclecloud.net]
 alicexue: [dns1.serv00.com, dns2.serv00.com]
 nxtcoder19: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 cal: [hydrogen.ns.hetzner.com, oxygen.ns.hetzner.com, helium.ns.hetzner.de] # Register cal.cluster.ws

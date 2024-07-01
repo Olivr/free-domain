@@ -1,5 +1,7 @@
 # Free domains for developers
 
+- **CURRENTLY THIS IS NOT WORKING ANYMORE** - THIS IS BECAUSE THESE TWO DOMAINS ARE HOSTED ON CLOUDFLARE AND WE HAVE HIT THE LIMIT OF 1,000 RECORDS PER DOMAIN. I HAVE OPENED A TICKET TO SEE IF THEY WOULD BE SO KIND TO DO SOMETHING ABOUT IT
+
 For IT enthusiasts who need a temporary domain name or those who can't or don't want to pay for a top level domain 🌍
 
 Available extensions:

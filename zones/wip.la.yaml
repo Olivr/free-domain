@@ -251,6 +251,7 @@ wibumart: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.
 volt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt.wip.la
 volt-dev: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register volt-dev.wip.la
 a805116: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register a805116.wip.la
+a805116: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Renew 2
 csk-ams: [ns1.dns-parking.com, ns2.dns-parking.com]
 virtualfinance: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 dev9900: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]

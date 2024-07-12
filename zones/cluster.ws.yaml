@@ -290,7 +290,7 @@ home: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.
 one: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 frank-gcp: [ns-cloud-d1.googledomains.com, ns-cloud-d2.googledomains.com, ns-cloud-d3.googledomains.com, ns-cloud-d4.googledomains.com]
 stellar: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
-fawve: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #renew
+fawve: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]  #renew
 chop: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 devno: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 ship: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

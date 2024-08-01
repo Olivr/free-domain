@@ -14,6 +14,7 @@ shoto: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 ohiorizzler: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net]
 ant: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net]
 pie: [dns1.serv00.com, dns2.serv00.com]
+proxmox: [ns1.nrfk.uk, ns2.nrfk.uk] # Register proxmox.cluster.ws
 d: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register d.cluster.ws
 io: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register io.cluster.ws
 storm-monitor: [ns-cloud-c1.googledomains.com, ns-cloud-c2.googledomains.com, ns-cloud-c3.googledomains.com, ns-cloud-c4.googledomains.com]

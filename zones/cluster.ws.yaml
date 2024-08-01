@@ -11,6 +11,7 @@ nxtcoder19: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 cal: [hydrogen.ns.hetzner.com, oxygen.ns.hetzner.com, helium.ns.hetzner.de] # Register cal.cluster.ws
 hastebin: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.ne]
 shoto: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+proxmox: [ns1.nrfk.uk, ns2.nrfk.uk] # Register proxmox.cluster.ws
 ohiorizzler: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net]
 ant: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net]
 pie: [dns1.serv00.com, dns2.serv00.com]
@@ -325,4 +326,3 @@ anvilbyte: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 jaris: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 is: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org]
 abctech: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.dns.oraclecloud.net, ns4.p201.dns.oraclecloud.net]
-munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

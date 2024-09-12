@@ -66,7 +66,7 @@ atk: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]
 static: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 portal: [ns1.ns1.afraid.ns1.ns1.afraid.org]
 dresseco: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register dresseco.wip.la
-netizenakii: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register netizenakii.wip.la
+netizenakii: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com] # Register netizenakii.wip.la #new
 tarasity: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 hiromon: [ns1.desec.io, ns2.desec.org] # Register hiromon.wip.la
 teleco: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register teleco.wip.la

@@ -14,6 +14,7 @@ vsl: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 ps: [ns1.desec.io, ns2.desec.org]
 k: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 m: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+d29dev: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 wiish: [dns1.serv00.com, dns2.serv00.com] # Register wiish.wip.la
 wiisc: [dns1.serv00.com, dns2.serv00.com]
 leaf5ter: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

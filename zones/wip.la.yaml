@@ -54,6 +54,7 @@ cceducation: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns
 vip: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 u: [ns1.desec.io, ns2.desec.org] # Register u.wip.la
 onerbt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+z: [pns61.cloudns.net, pns62.cloudns.com, pns63.cloudns.net, pns64.cloudns.uk] # Register z.wip.la
 tgt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 z1g: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 swac: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]

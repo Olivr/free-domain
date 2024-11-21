@@ -285,7 +285,7 @@ pinarro: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Regi
 paralecttest: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 valmyapptest: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 play: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register play.wip.la
-fr : [galileo.aternos.org, columbus.aternos.org] # Register fr.wip.la
+fr : [galileo.aternos.org, columbus.aternos.org, a.dns.gandi.net, b.dns.gandi.net, c.dns.gandi.net] # Register fr.wip.la
 sergiy0: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register sergio.wip.la
 shopyweb: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register shopyweb.wip.la
 sergio: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # Register sergio.wip.la

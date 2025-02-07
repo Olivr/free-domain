@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+apps: [ns1.vultr.com, ns2.vultr.com] # Register apps.wip.la
 shoto: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net]
 py: [dns1.serv00.com, dns2.serv00.com]
 beat0: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

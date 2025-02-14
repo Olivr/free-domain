@@ -6,6 +6,7 @@
 #
 # Domains expire 1 year after the last modification
 # ---------------------------------------------------------------------------------------------------------------------
+xn--d28h: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 megablue: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 shoto: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net]
 py: [dns1.serv00.com, dns2.serv00.com]

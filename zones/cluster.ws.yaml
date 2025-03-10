@@ -222,7 +222,7 @@ hmon-aws: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.ne
 dhruvil008: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # register dhruvil008.cluster.ws
 doesnotcompute: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.dns.oraclecloud.net, ns4.p201.dns.oraclecloud.net]
 blatantrp: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
-ajnebalreves: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+ajnebalreves: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #renew 1
 dee: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 cronix: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 devildesk: [ns0.1984.is, ns1.1984hosting.com, ns1.1984.is, ns2.1984hosting.com, ns2.1984.is]

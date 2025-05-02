@@ -271,7 +271,7 @@ ea: [dns1.serv00.com, dns2.serv00.com]
 eap: [dns1.serv00.com, dns2.serv00.com] # Register eap.wip.la
 music: [ns41.cloudns.net, ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register music.wip.la
 hub: [ns1.ns1.desec.io, ns2.desec.org]
-rs: [ns41.cloudns.net, ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register rs.wip.la
+rs: [ns41.cloudns.net, ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register rs.wip.la # renew
 lee: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 samarastar: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 devildesk: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

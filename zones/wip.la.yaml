@@ -186,7 +186,7 @@ aniruddh: [ns21.cloudns.net, ns22.cloudns.net, ns23.cloudns.net, ns24.cloudns.ne
 cauvang : [ns41.cloudns.net, ns42.cloudns.net]
 ssangyongsportshost : [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org]
 evan: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register evan.wip.la
-mlgtwy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+mlgtwy: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # renew
 mlgtw: [ns41.cloudns.net, ns43.cloudns.net, ns44.cloudns.net, ns42.cloudns.net]
 l: [ns1.desec.io, ns2.desec.org] # Register l.wip.la
 lnz: [ns1.desec.io, ns2.desec.org]
@@ -306,6 +306,7 @@ sarraf: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # R
 px: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 shopy: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
 shapi: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
+nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 cnsn: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloudns.net]
 djiweb: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 djiapi: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]

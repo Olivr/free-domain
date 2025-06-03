@@ -134,7 +134,7 @@ alpha: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] 
 sanzz: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
 itransition-intern: [ns1.linode.com, ns2.linode.com, ns3.linode.com, ns4.linode.com, ns5.linode.com]
 quo: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
-balloon: [ns31.cloudns.net, ns32.cloudns.net, ns33.cloudns.net, ns34.cloudns.net]
+balloon: [ns1.ydns.io, ns2.ydns.io]
 blue: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 wlf: [ns1.crystalcloud.xyz, ns2.crystalcloud.xyz]
 lorebooks: [glauca.whitelabels.recaptime.eu.org] # whitelabelled nameserver for HexDNS

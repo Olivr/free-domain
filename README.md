@@ -30,7 +30,7 @@ Run the following command:
 nslookup -type=ns example.cluster.ws
 ```
 
-If you see something like **server can't find example.cluster.ws: NXDOMAIN**, your domain is available.
+If you see something like \*\*server can't find example.cluster.ws: NXDOMAIN**, your domain is available.
 
 #### Option 2
 

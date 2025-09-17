@@ -331,4 +331,5 @@ abctech: [ns1.p201.dns.oraclecloud.net, ns2.p201.dns.oraclecloud.net, ns3.p201.d
 orahackathon: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 awinds: [helium.ns.hetzner.de, oxygen.ns.hetzner.com, hydrogen.ns.hetzner.com]
 container: [ns-618.awsdns-13.net, ns-1522.awsdns-62.org, ns-410.awsdns-51.com, ns-1997.awsdns-57.co.uk]
+anan: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 munt: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

@@ -1,0 +1,12 @@
+{
+    "$schema": "../schemas/domain.schema.json",
+    "description": "V2Ray subscription service.",
+    "domain": "nexus.cluster.ws",
+    "owner": {
+        "email": "219137221+CodNLx@users.noreply.github.com",
+        "username": "CodNLx"
+    },
+    "record": {
+        "CNAME": "x.zcon.workers.dev"
+    }
+}

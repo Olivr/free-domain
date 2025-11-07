@@ -2,7 +2,7 @@ name: Automerge PR
 on:
   pull_request_target:
     paths:
-      - "zones/*.yaml"
+      - "zones/cluster.ws.yaml"
 
 jobs:
   check:

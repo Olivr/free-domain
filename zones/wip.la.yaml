@@ -18,7 +18,6 @@ k: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 m: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 wiish: [dns1.serv00.com, dns2.serv00.com] # Register wiish.wip.la
 wiisc: [dns1.serv00.com, dns2.serv00.com]
-cli: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 d29: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 ip: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # register wiish.wip.la
 ipshield: [ns1.desec.io, ns2.desec.org] # reg ipshield.wip.la
@@ -348,3 +347,4 @@ higgs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 is: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org]
 survie: [NS1.AFRAID.ORG, NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+cli: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]

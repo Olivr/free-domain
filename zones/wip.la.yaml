@@ -18,6 +18,8 @@ k: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 m: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 wiish: [dns1.serv00.com, dns2.serv00.com] # Register wiish.wip.la
 wiisc: [dns1.serv00.com, dns2.serv00.com]
+cli: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
+clina: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 d29: [ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com]
 ip: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # register wiish.wip.la
 ipshield: [ns1.desec.io, ns2.desec.org] # reg ipshield.wip.la

@@ -173,16 +173,16 @@ eins: [hydrogen.ns.hetzner.com,oxygen.ns.hetzner.com,helium.ns.hetzner.de]
 zero: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # register zero cluster <3 Thanks a lot
 aaa: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] # register aaa.cluster.ws
 notadev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] # Register notadev.cluster.ws
-backbench: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
+backbench: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services] #delete
 pramithavasumicro: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
-backbencher: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
+backbencher: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services] #delete
 xcrapy: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 dot: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 py: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 ee: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 dyn: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net, ns5.he.net]
-mr-itg: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
-itg: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
+mr-itg: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services] #delete
+itg: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services] #delete
 it: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org, ns1.gcorelabs.net, ns2.gcdn.services]
 bruh: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 chekw: [ServeruDeCacatAlLuiChizec.cluster.ws]
@@ -190,7 +190,7 @@ ngcluster: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.n
 free: [ns1.gcorelabs.net, ns2.gcdn.services]
 yuseix: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 get-a: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
-mr-itengineer: [ns1.gcorelabs.net, ns2.gcdn.services, ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com, ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
+mr-itengineer: [ns1.gcorelabs.net, ns2.gcdn.services, ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com, ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #delete
 ponomarev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 waknori: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 yoshane: [ns0.1984.is, ns1.1984.is, ns2.1984.is, ns2.1984hosting.com]
@@ -236,7 +236,7 @@ linuxenforcer: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 klops: [ns1.digitalocean.com,ns2.digitalocean.com,ns3.digitalocean.com]
 dbuddy: [ns1.zilore.net,ns2.zilore.net]
 bet6: [ns-245.awsdns-30.com, ns-1498.awsdns-59.org, ns-663.awsdns-18.net, ns-1853.awsdns-39.co.uk]
-edns: [ns0.1984.is, ns1.1984.is, ns2.1984.is, ns1.1984hosting.com, ns2.1984hosting.com]
+edns: [ns0.1984.is, ns1.1984.is, ns2.1984.is, ns1.1984hosting.com, ns2.1984hosting.com] #delete
 bs: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org, ns5.byet.org]
 dns: [ns1.zilore.net, ns2.zilore.net]
 gg: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

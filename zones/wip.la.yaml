@@ -330,7 +330,7 @@ last-dev-test3: [ns1.fweb.gq, ns2.fweb.gq, ns3.fweb.gq, ns4.fweb.gq]
 musiguesser: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 kyros: [kyros.wip.la, kyros.pages.dev, kyros.wip.la, kyros.wip.la]
 waves-server: [ns1.byet.org, ns2.byet.org, ns3.byet.org, ns4.byet.org]
-d1: [ns1.desec.io, ns2.desec.org, ns1.desec.io, ns1.desec.io]
+d1: [ns1.desec.io, ns2.desec.org, ns1.desec.io, ns1.desec.io] # Renew
 schulsani: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 pupa: [freedns1.registrar-servers.com, freedns2.registrar-servers.com, freedns3.registrar-servers.com, freedns4.registrar-servers.com, freedns5.registrar-servers.com]
 svip: [ns1.dynv6.com, ns2.dynv6.com, ns3.dynv6.com, ns1.dynv6.com]

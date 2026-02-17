@@ -251,7 +251,7 @@ nnwasys: [ns41.cloudns.net,ns42.cloudns.net,ns43.cloudns.net,ns44.cloudns.net]
 asdf: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 learning: [NS1.AFRAID.ORG ,NS2.AFRAID.ORG, NS3.AFRAID.ORG, NS4.AFRAID.ORG]
 louieisahuman: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
-imagummybear: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+# imagummybear: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 ramonsimon: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register ramonsimon.cluster.ws
 awadh: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 dooj: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register example.cluster.ws

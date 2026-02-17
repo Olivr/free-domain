@@ -193,7 +193,7 @@ get-a: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 mr-itengineer: [ns1.gcorelabs.net, ns2.gcdn.services, ns1.hostry.com, ns2.hostry.com, ns3.hostry.com, ns4.hostry.com, ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 ponomarev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 waknori: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
-yoshane: [ns0.1984.is, ns1.1984.is, ns2.1984.is, ns2.1984hosting.com]
+yoshane: [ns0.1984.is, ns1.1984.is, ns2.1984.is, ns2.1984hosting.com] #renew
 v3z: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net] 
 atharv: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 mrvishal2k2: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]

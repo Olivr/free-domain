@@ -41,6 +41,7 @@ allythic-temp: [ns51.cloudns.net, ns52.cloudns.net, ns53.cloudns.net, ns54.cloud
 coleaderme: [ns1.afraid.org,ns2.afraid.org,ns3.afraid.org,ns4.afraid.org] #Register coleaderme.cluster.ws
 dhaloi: [hydrogen.ns.hetzner.com, oxygen.ns.hetzner.com, helium.ns.hetzner.de] # Register dhaloi.cluster.ws
 storm: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
+storm: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Register storm.cluster.ws
 viktor: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org] #Register viktor.cluster.ws
 private: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]
 demo: [ns1.afraid.org, ns2.afraid.org, ns3.afraid.org, ns4.afraid.org]

